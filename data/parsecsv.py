@@ -13,7 +13,7 @@ import json
 #     jsonfile.write('\n')
 # jsonfile.write(']')
 
-jsonfile = open('wo_ju.json', 'r')
+jsonfile = open('wo_ju_original.json', 'r')
 data = json.load(jsonfile)
 jsonfile.close()
 
@@ -32,22 +32,26 @@ for country in data["data"]:
 
 
 for country in new_data:
-	low_score = 100
+	result_year = 2000
 	for result in new_data[country]['percentage_data']:
-		score = float(new_data[country]['percentage_data'][result])
-		if score < low_score:
-			low_score = score
-	if low_score != 100:		
-		new_data[country]['percentage_data']['low_score'] = low_score
+		current_year = int(result)
+		print "the current year is " + str(current_year)
+		if current_year > result_year:
+			result_year = current_year
+		print "the result year is "  + str(result_year)	
+	if result_year != 2000:		
+		new_data[country]['Country Low Year'] = result_year
+		new_data[country]['Country Low Percentage'] = float(new_data[country]['percentage_data'][str(result_year)])
 	else:
-		new_data[country]['percentage_data']['low_score'] = "null"
+		new_data[country]['Country Low Year'] = "null"
+		new_data[country]['Country Low Percentage'] = "null"
 	#for result in country['percentage_data']:
 	#	print result
 					
 
 
 jsonfile = open("wo_ju.json", "w+")
-jsonfile.write(json.dumps(new_data))
+jsonfile.write(json.dumps(new_data, indent = 3))
 jsonfile.close()			
 
 
