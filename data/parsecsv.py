@@ -17,14 +17,38 @@ jsonfile = open('wo_ju.json', 'r')
 data = json.load(jsonfile)
 jsonfile.close()
 
-for country in data:
-	print country
+new_data = {}
+
+for country in data["data"]:
+	new_data[country['Country Code']] = {}
+	new_data[country['Country Code']]['percentage_data'] = {}
 	for key in country:
-		if country[key] == "":
-			delete data[country][key]
+		if country[key] != "" and key != "null" and key != "Indicator Code" and key != "Indicator Name":
+			if key[0] == "2":
+				new_data[country['Country Code']]['percentage_data'][key] = country[key]
+			else:	
+				new_data[country['Country Code']][key] = country[key]
+
+
+
+for country in new_data:
+	low_score = 100
+	for result in new_data[country]['percentage_data']:
+		score = float(new_data[country]['percentage_data'][result])
+		if score < low_score:
+			low_score = score
+			print low_score
+	if low_score != 100:		
+		new_data[country]['percentage_data']['low_score'] = low_score
+	else:
+		new_data[country]['percentage_data']['low_score'] = "null"
+	#for result in country['percentage_data']:
+	#	print result
+					
+
 
 jsonfile = open("wo_ju_nice.json", "w+")
-jsonfile.write(json.dumps(data, indent = 3))
+jsonfile.write(json.dumps(new_data, indent = 3))
 jsonfile.close()			
 
 
