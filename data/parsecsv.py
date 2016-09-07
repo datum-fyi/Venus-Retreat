@@ -37,7 +37,6 @@ for country in new_data:
 		score = float(new_data[country]['percentage_data'][result])
 		if score < low_score:
 			low_score = score
-			print low_score
 	if low_score != 100:		
 		new_data[country]['percentage_data']['low_score'] = low_score
 	else:
@@ -47,8 +46,8 @@ for country in new_data:
 					
 
 
-jsonfile = open("wo_ju_nice.json", "w+")
-jsonfile.write(json.dumps(new_data, indent = 3))
+jsonfile = open("wo_ju.json", "w+")
+jsonfile.write(json.dumps(new_data))
 jsonfile.close()			
 
 
