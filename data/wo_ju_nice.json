@@ -1,1095 +1,1149 @@
 {
    "AGO": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Angola", 
-      "Country Code": "AGO"
+      "Country Code": "AGO", 
+      "Country Low Year": "null"
    }, 
    "DZA": {
       "percentage_data": {
-         "low_score": 59.0, 
          "2013": "59"
       }, 
+      "Country Low Percentage": 59.0, 
       "Country Name": "Algeria", 
-      "Country Code": "DZA"
+      "Country Code": "DZA", 
+      "Country Low Year": 2013
    }, 
    "EGY": {
       "percentage_data": {
-         "low_score": 35.7, 
          "2014": "35.7", 
          "2008": "39.3", 
          "2005": "50"
       }, 
+      "Country Low Percentage": 35.7, 
       "Country Name": "Egypt, Arab Rep.", 
-      "Country Code": "EGY"
+      "Country Code": "EGY", 
+      "Country Low Year": 2014
    }, 
    "BGD": {
       "percentage_data": {
-         "low_score": 28.3, 
          "2014": "28.3", 
          "2011": "32.5", 
          "2007": "31"
       }, 
+      "Country Low Percentage": 28.3, 
       "Country Name": "Bangladesh", 
-      "Country Code": "BGD"
+      "Country Code": "BGD", 
+      "Country Low Year": 2014
    }, 
    "NER": {
       "percentage_data": {
-         "low_score": 59.6, 
          "2006": "70.1", 
          "2012": "59.6"
       }, 
+      "Country Low Percentage": 59.6, 
       "Country Name": "Niger", 
-      "Country Code": "NER"
+      "Country Code": "NER", 
+      "Country Low Year": 2012
    }, 
    "LIC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Low income", 
-      "Country Code": "LIC"
+      "Country Code": "LIC", 
+      "Country Low Year": "null"
    }, 
    "MIC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Middle income", 
-      "Country Code": "MIC"
+      "Country Code": "MIC", 
+      "Country Low Year": "null"
    }, 
    "NAM": {
       "percentage_data": {
-         "low_score": 28.2, 
          "2007": "35.2", 
          "2013": "28.2"
       }, 
+      "Country Low Percentage": 28.2, 
       "Country Name": "Namibia", 
-      "Country Code": "NAM"
+      "Country Code": "NAM", 
+      "Country Low Year": 2013
    }, 
    "VEN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Venezuela, RB", 
-      "Country Code": "VEN"
+      "Country Code": "VEN", 
+      "Country Low Year": "null"
    }, 
    "BGR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Bulgaria", 
-      "Country Code": "BGR"
+      "Country Code": "BGR", 
+      "Country Low Year": "null"
    }, 
    "BOL": {
       "percentage_data": {
-         "low_score": 16.1, 
          "2003": "22.1", 
          "2008": "16.1"
       }, 
+      "Country Low Percentage": 16.1, 
       "Country Name": "Bolivia", 
-      "Country Code": "BOL"
+      "Country Code": "BOL", 
+      "Country Low Year": 2008
    }, 
    "GHA": {
       "percentage_data": {
-         "low_score": 28.3, 
          "2014": "28.3", 
          "2008": "36.6", 
          "2003": "48.5"
       }, 
+      "Country Low Percentage": 28.3, 
       "Country Name": "Ghana", 
-      "Country Code": "GHA"
+      "Country Code": "GHA", 
+      "Country Low Year": 2014
    }, 
    "PAK": {
       "percentage_data": {
-         "low_score": 42.2, 
          "2013": "42.2"
       }, 
+      "Country Low Percentage": 42.2, 
       "Country Name": "Pakistan", 
-      "Country Code": "PAK"
+      "Country Code": "PAK", 
+      "Country Low Year": 2013
    }, 
    "WLD": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "World", 
-      "Country Code": "WLD"
+      "Country Code": "WLD", 
+      "Country Low Year": "null"
    }, 
    "CPV": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Cabo Verde", 
-      "Country Code": "CPV"
+      "Country Code": "CPV", 
+      "Country Low Year": "null"
    }, 
    "PRE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Pre-demographic dividend", 
-      "Country Code": "PRE"
+      "Country Code": "PRE", 
+      "Country Low Year": "null"
    }, 
    "ROU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Romania", 
-      "Country Code": "ROU"
+      "Country Code": "ROU", 
+      "Country Low Year": "null"
    }, 
    "JOR": {
       "percentage_data": {
          "2002": "65.4", 
-         "low_score": 22.6, 
          "2007": "52.5", 
          "2012": "22.6"
       }, 
+      "Country Low Percentage": 22.6, 
       "Country Name": "Jordan", 
-      "Country Code": "JOR"
+      "Country Code": "JOR", 
+      "Country Low Year": 2012
    }, 
    "LBR": {
       "percentage_data": {
-         "low_score": 42.5, 
          "2007": "59.3", 
          "2013": "42.5"
       }, 
+      "Country Low Percentage": 42.5, 
       "Country Name": "Liberia", 
-      "Country Code": "LBR"
+      "Country Code": "LBR", 
+      "Country Low Year": 2013
    }, 
    "MUS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Mauritius", 
-      "Country Code": "MUS"
+      "Country Code": "MUS", 
+      "Country Low Year": "null"
    }, 
    "LBY": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Libya", 
-      "Country Code": "LBY"
+      "Country Code": "LBY", 
+      "Country Low Year": "null"
    }, 
    "MYS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Malaysia", 
-      "Country Code": "MYS"
+      "Country Code": "MYS", 
+      "Country Low Year": "null"
    }, 
    "PRI": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Puerto Rico", 
-      "Country Code": "PRI"
+      "Country Code": "PRI", 
+      "Country Low Year": "null"
    }, 
    "SXM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sint Maarten (Dutch part)", 
-      "Country Code": "SXM"
+      "Country Code": "SXM", 
+      "Country Low Year": "null"
    }, 
    "PRK": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Korea, Dem. People\u2019s Rep.", 
-      "Country Code": "PRK"
+      "Country Code": "PRK", 
+      "Country Low Year": "null"
    }, 
    "PSE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "West Bank and Gaza", 
-      "Country Code": "PSE"
+      "Country Code": "PSE", 
+      "Country Low Year": "null"
    }, 
    "TZA": {
       "percentage_data": {
-         "low_score": 53.5, 
          "2010": "53.5", 
          "2005": "59.6"
       }, 
+      "Country Low Percentage": 53.5, 
       "Country Name": "Tanzania", 
-      "Country Code": "TZA"
+      "Country Code": "TZA", 
+      "Country Low Year": 2010
    }, 
    "BWA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Botswana", 
-      "Country Code": "BWA"
+      "Country Code": "BWA", 
+      "Country Low Year": "null"
    }, 
    "KHM": {
       "percentage_data": {
-         "low_score": 13.8, 
          "2014": "49.8", 
          "2010": "45.5", 
          "2005": "13.8"
       }, 
+      "Country Low Percentage": 49.8, 
       "Country Name": "Cambodia", 
-      "Country Code": "KHM"
+      "Country Code": "KHM", 
+      "Country Low Year": 2014
    }, 
    "NIC": {
       "percentage_data": {
-         "low_score": 12.5, 
          "2001": "12.5"
       }, 
+      "Country Low Percentage": 12.5, 
       "Country Name": "Nicaragua", 
-      "Country Code": "NIC"
+      "Country Code": "NIC", 
+      "Country Low Year": 2001
    }, 
    "SAS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "South Asia", 
-      "Country Code": "SAS"
+      "Country Code": "SAS", 
+      "Country Low Year": "null"
    }, 
    "PRY": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Paraguay", 
-      "Country Code": "PRY"
+      "Country Code": "PRY", 
+      "Country Low Year": "null"
    }, 
    "HKG": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Hong Kong SAR, China", 
-      "Country Code": "HKG"
+      "Country Code": "HKG", 
+      "Country Low Year": "null"
    }, 
    "SAU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Saudi Arabia", 
-      "Country Code": "SAU"
+      "Country Code": "SAU", 
+      "Country Low Year": "null"
    }, 
    "LBN": {
       "percentage_data": {
-         "low_score": 9.7, 
          "2009": "9.7"
       }, 
+      "Country Low Percentage": 9.7, 
       "Country Name": "Lebanon", 
-      "Country Code": "LBN"
+      "Country Code": "LBN", 
+      "Country Low Year": 2009
    }, 
    "SVN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Slovenia", 
-      "Country Code": "SVN"
+      "Country Code": "SVN", 
+      "Country Low Year": "null"
    }, 
    "BFA": {
       "percentage_data": {
-         "low_score": 43.5, 
          "2003": "71.1", 
          "2006": "71.4", 
          "2010": "43.5"
       }, 
+      "Country Low Percentage": 43.5, 
       "Country Name": "Burkina Faso", 
-      "Country Code": "BFA"
+      "Country Code": "BFA", 
+      "Country Low Year": 2010
    }, 
    "CHE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Switzerland", 
-      "Country Code": "CHE"
+      "Country Code": "CHE", 
+      "Country Low Year": "null"
    }, 
    "LMY": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Low & middle income", 
-      "Country Code": "LMY"
+      "Country Code": "LMY", 
+      "Country Low Year": "null"
    }, 
    "MRT": {
       "percentage_data": {
-         "low_score": 37.9, 
          "2011": "37.9"
       }, 
+      "Country Low Percentage": 37.9, 
       "Country Name": "Mauritania", 
-      "Country Code": "MRT"
+      "Country Code": "MRT", 
+      "Country Low Year": 2011
    }, 
    "CHI": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Channel Islands", 
-      "Country Code": "CHI"
+      "Country Code": "CHI", 
+      "Country Low Year": "null"
    }, 
    "HRV": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Croatia", 
-      "Country Code": "HRV"
+      "Country Code": "HRV", 
+      "Country Low Year": "null"
    }, 
    "CHL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Chile", 
-      "Country Code": "CHL"
+      "Country Code": "CHL", 
+      "Country Low Year": "null"
    }, 
    "CHN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "China", 
-      "Country Code": "CHN"
+      "Country Code": "CHN", 
+      "Country Low Year": "null"
    }, 
    "KNA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "St. Kitts and Nevis", 
-      "Country Code": "KNA"
+      "Country Code": "KNA", 
+      "Country Low Year": "null"
    }, 
    "SLE": {
       "percentage_data": {
-         "low_score": 62.8, 
          "2008": "64.6", 
          "2013": "62.8", 
          "2005": "85"
       }, 
+      "Country Low Percentage": 62.8, 
       "Country Name": "Sierra Leone", 
-      "Country Code": "SLE"
+      "Country Code": "SLE", 
+      "Country Low Year": 2013
    }, 
    "JAM": {
       "percentage_data": {
-         "low_score": 4.9, 
          "2011": "4.9"
       }, 
+      "Country Low Percentage": 4.9, 
       "Country Name": "Jamaica", 
-      "Country Code": "JAM"
+      "Country Code": "JAM", 
+      "Country Low Year": 2011
    }, 
    "SMR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "San Marino", 
-      "Country Code": "SMR"
+      "Country Code": "SMR", 
+      "Country Low Year": "null"
    }, 
    "GIB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Gibraltar", 
-      "Country Code": "GIB"
+      "Country Code": "GIB", 
+      "Country Low Year": "null"
    }, 
    "DJI": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Djibouti", 
-      "Country Code": "DJI"
+      "Country Code": "DJI", 
+      "Country Low Year": "null"
    }, 
    "GIN": {
       "percentage_data": {
-         "low_score": 85.6, 
          "2005": "85.6", 
          "2012": "92.1"
       }, 
+      "Country Low Percentage": 92.1, 
       "Country Name": "Guinea", 
-      "Country Code": "GIN"
+      "Country Code": "GIN", 
+      "Country Low Year": 2012
    }, 
    "FIN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Finland", 
-      "Country Code": "FIN"
+      "Country Code": "FIN", 
+      "Country Low Year": "null"
    }, 
    "URY": {
       "percentage_data": {
-         "low_score": 1.5, 
          "2013": "1.5"
       }, 
+      "Country Low Percentage": 1.5, 
       "Country Name": "Uruguay", 
-      "Country Code": "URY"
+      "Country Code": "URY", 
+      "Country Low Year": 2013
    }, 
    "THA": {
       "percentage_data": {
-         "low_score": 13.1, 
          "2012": "13.1"
       }, 
+      "Country Low Percentage": 13.1, 
       "Country Name": "Thailand", 
-      "Country Code": "THA"
+      "Country Code": "THA", 
+      "Country Low Year": 2012
    }, 
    "SYC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Seychelles", 
-      "Country Code": "SYC"
+      "Country Code": "SYC", 
+      "Country Low Year": "null"
    }, 
    "NPL": {
       "percentage_data": {
-         "low_score": 0.8, 
          "2006": "23.2", 
          "2001": "28.8", 
          "2011": "0.8"
       }, 
+      "Country Low Percentage": 0.8, 
       "Country Name": "Nepal", 
-      "Country Code": "NPL"
+      "Country Code": "NPL", 
+      "Country Low Year": 2011
    }, 
    "LAO": {
       "percentage_data": {
-         "low_score": 58.2, 
          "2012": "58.2"
       }, 
+      "Country Low Percentage": 58.2, 
       "Country Name": "Lao PDR", 
-      "Country Code": "LAO"
+      "Country Code": "LAO", 
+      "Country Low Year": 2012
    }, 
    "YEM": {
       "percentage_data": {
-         "low_score": 48.7, 
          "2013": "48.7"
       }, 
+      "Country Low Percentage": 48.7, 
       "Country Name": "Yemen, Rep.", 
-      "Country Code": "YEM"
+      "Country Code": "YEM", 
+      "Country Low Year": 2013
    }, 
    "PHL": {
       "percentage_data": {
-         "low_score": 12.9, 
          "2003": "24.1", 
          "2008": "14.1", 
          "2013": "12.9"
       }, 
+      "Country Low Percentage": 12.9, 
       "Country Name": "Philippines", 
-      "Country Code": "PHL"
+      "Country Code": "PHL", 
+      "Country Low Year": 2013
    }, 
    "ZAF": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "South Africa", 
-      "Country Code": "ZAF"
+      "Country Code": "ZAF", 
+      "Country Low Year": "null"
    }, 
    "KIR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Kiribati", 
-      "Country Code": "KIR"
+      "Country Code": "KIR", 
+      "Country Low Year": "null"
    }, 
    "LAC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Latin America & Caribbean (excluding high income)", 
-      "Country Code": "LAC"
+      "Country Code": "LAC", 
+      "Country Low Year": "null"
    }, 
    "VIR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Virgin Islands (U.S.)", 
-      "Country Code": "VIR"
+      "Country Code": "VIR", 
+      "Country Low Year": "null"
    }, 
    "SYR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Syrian Arab Republic", 
-      "Country Code": "SYR"
+      "Country Code": "SYR", 
+      "Country Low Year": "null"
    }, 
    "MAC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Macao SAR, China", 
-      "Country Code": "MAC"
+      "Country Code": "MAC", 
+      "Country Low Year": "null"
    }, 
    "LIE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Liechtenstein", 
-      "Country Code": "LIE"
+      "Country Code": "LIE", 
+      "Country Low Year": "null"
    }, 
    "MAF": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "St. Martin (French part)", 
-      "Country Code": "MAF"
+      "Country Code": "MAF", 
+      "Country Low Year": "null"
    }, 
    "MLT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Malta", 
-      "Country Code": "MLT"
+      "Country Code": "MLT", 
+      "Country Low Year": "null"
    }, 
    "KAZ": {
       "percentage_data": {
-         "low_score": 10.4, 
          "2006": "10.4", 
          "2011": "12.2"
       }, 
+      "Country Low Percentage": 12.2, 
       "Country Name": "Kazakhstan", 
-      "Country Code": "KAZ"
+      "Country Code": "KAZ", 
+      "Country Low Year": 2011
    }, 
    "TCA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Turks and Caicos Islands", 
-      "Country Code": "TCA"
+      "Country Code": "TCA", 
+      "Country Low Year": "null"
    }, 
    "PYF": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "French Polynesia", 
-      "Country Code": "PYF"
+      "Country Code": "PYF", 
+      "Country Low Year": "null"
    }, 
    "COD": {
       "percentage_data": {
-         "low_score": 74.8, 
          "2014": "74.8", 
          "2007": "75.6"
       }, 
+      "Country Low Percentage": 74.8, 
       "Country Name": "Congo, Dem. Rep.", 
-      "Country Code": "COD"
+      "Country Code": "COD", 
+      "Country Low Year": 2014
    }, 
    "DMA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Dominica", 
-      "Country Code": "DMA"
+      "Country Code": "DMA", 
+      "Country Low Year": "null"
    }, 
    "KSV": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Kosovo", 
-      "Country Code": "KSV"
+      "Country Code": "KSV", 
+      "Country Low Year": "null"
    }, 
    "BEN": {
       "percentage_data": {
-         "low_score": 16.2, 
          "2014": "36", 
          "2001": "60.4", 
          "2006": "46.5", 
          "2012": "16.2"
       }, 
+      "Country Low Percentage": 36.0, 
       "Country Name": "Benin", 
-      "Country Code": "BEN"
+      "Country Code": "BEN", 
+      "Country Low Year": 2014
    }, 
    "NGA": {
       "percentage_data": {
-         "low_score": 34.7, 
          "2003": "64.2", 
          "2008": "43", 
          "2013": "34.7"
       }, 
+      "Country Low Percentage": 34.7, 
       "Country Name": "Nigeria", 
-      "Country Code": "NGA"
+      "Country Code": "NGA", 
+      "Country Low Year": 2013
    }, 
    "BEL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Belgium", 
-      "Country Code": "BEL"
+      "Country Code": "BEL", 
+      "Country Low Year": "null"
    }, 
    "TGO": {
       "percentage_data": {
-         "low_score": 28.7, 
          "2014": "28.7", 
          "2006": "53.2"
       }, 
+      "Country Low Percentage": 28.7, 
       "Country Name": "Togo", 
-      "Country Code": "TGO"
+      "Country Code": "TGO", 
+      "Country Low Year": 2014
    }, 
    "DEU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Germany", 
-      "Country Code": "DEU"
+      "Country Code": "DEU", 
+      "Country Low Year": "null"
    }, 
    "GUM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Guam", 
-      "Country Code": "GUM"
+      "Country Code": "GUM", 
+      "Country Low Year": "null"
    }, 
    "LKA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sri Lanka", 
-      "Country Code": "LKA"
+      "Country Code": "LKA", 
+      "Country Low Year": "null"
    }, 
    "EMU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Euro area", 
-      "Country Code": "EMU"
+      "Country Code": "EMU", 
+      "Country Low Year": "null"
    }, 
    "GBR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "United Kingdom", 
-      "Country Code": "GBR"
+      "Country Code": "GBR", 
+      "Country Low Year": "null"
    }, 
    "GUY": {
       "percentage_data": {
-         "low_score": 10.2, 
          "2014": "10.2", 
          "2009": "16.3", 
          "2007": "23.6"
       }, 
+      "Country Low Percentage": 10.2, 
       "Country Name": "Guyana", 
-      "Country Code": "GUY"
+      "Country Code": "GUY", 
+      "Country Low Year": 2014
    }, 
    "CRI": {
       "percentage_data": {
-         "low_score": 3.5, 
          "2011": "3.5"
       }, 
+      "Country Low Percentage": 3.5, 
       "Country Name": "Costa Rica", 
-      "Country Code": "CRI"
+      "Country Code": "CRI", 
+      "Country Low Year": 2011
    }, 
    "CMR": {
       "percentage_data": {
-         "low_score": 36.1, 
          "2014": "36.1", 
          "2011": "46.5", 
          "2004": "55.6"
       }, 
+      "Country Low Percentage": 36.1, 
       "Country Name": "Cameroon", 
-      "Country Code": "CMR"
+      "Country Code": "CMR", 
+      "Country Low Year": 2014
    }, 
    "LDC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Least developed countries: UN classification", 
-      "Country Code": "LDC"
+      "Country Code": "LDC", 
+      "Country Low Year": "null"
    }, 
    "MAR": {
       "percentage_data": {
-         "low_score": 63.9, 
          "2004": "63.9"
       }, 
+      "Country Low Percentage": 63.9, 
       "Country Name": "Morocco", 
-      "Country Code": "MAR"
+      "Country Code": "MAR", 
+      "Country Low Year": 2004
    }, 
    "CEB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Central Europe and the Baltics", 
-      "Country Code": "CEB"
+      "Country Code": "CEB", 
+      "Country Low Year": "null"
    }, 
    "MNP": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Northern Mariana Islands", 
-      "Country Code": "MNP"
+      "Country Code": "MNP", 
+      "Country Low Year": "null"
    }, 
    "IDB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "IDA blend", 
-      "Country Code": "IDB"
+      "Country Code": "IDB", 
+      "Country Low Year": "null"
    }, 
    "HUN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Hungary", 
-      "Country Code": "HUN"
+      "Country Code": "HUN", 
+      "Country Low Year": "null"
    }, 
    "TKM": {
       "percentage_data": {
-         "low_score": 37.7, 
          "2000": "51.7", 
          "2006": "37.7"
       }, 
+      "Country Low Percentage": 37.7, 
       "Country Name": "Turkmenistan", 
-      "Country Code": "TKM"
+      "Country Code": "TKM", 
+      "Country Low Year": 2006
    }, 
    "VCT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "St. Vincent and the Grenadines", 
-      "Country Code": "VCT"
+      "Country Code": "VCT", 
+      "Country Low Year": "null"
    }, 
    "TTO": {
       "percentage_data": {
-         "low_score": 7.6, 
          "2006": "7.6"
       }, 
+      "Country Low Percentage": 7.6, 
       "Country Name": "Trinidad and Tobago", 
-      "Country Code": "TTO"
+      "Country Code": "TTO", 
+      "Country Low Year": 2006
    }, 
    "NLD": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Netherlands", 
-      "Country Code": "NLD"
+      "Country Code": "NLD", 
+      "Country Low Year": "null"
    }, 
    "BMU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Bermuda", 
-      "Country Code": "BMU"
+      "Country Code": "BMU", 
+      "Country Low Year": "null"
    }, 
    "MNA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Middle East & North Africa (excluding high income)", 
-      "Country Code": "MNA"
+      "Country Code": "MNA", 
+      "Country Low Year": "null"
    }, 
    "TCD": {
       "percentage_data": {
-         "low_score": 62.3, 
          "2010": "62.3"
       }, 
+      "Country Low Percentage": 62.3, 
       "Country Name": "Chad", 
-      "Country Code": "TCD"
+      "Country Code": "TCD", 
+      "Country Low Year": 2010
    }, 
    "GEO": {
       "percentage_data": {
-         "low_score": 6.9, 
          "2005": "6.9"
       }, 
+      "Country Low Percentage": 6.9, 
       "Country Name": "Georgia", 
-      "Country Code": "GEO"
+      "Country Code": "GEO", 
+      "Country Low Year": 2005
    }, 
    "MNE": {
       "percentage_data": {
-         "low_score": 2.7, 
          "2006": "10.9", 
          "2013": "2.7"
       }, 
+      "Country Low Percentage": 2.7, 
       "Country Name": "Montenegro", 
-      "Country Code": "MNE"
+      "Country Code": "MNE", 
+      "Country Low Year": 2013
    }, 
    "MNG": {
       "percentage_data": {
-         "low_score": 10.1, 
          "2010": "10.1", 
          "2005": "20.4"
       }, 
+      "Country Low Percentage": 10.1, 
       "Country Name": "Mongolia", 
-      "Country Code": "MNG"
+      "Country Code": "MNG", 
+      "Country Low Year": 2010
    }, 
    "MHL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Marshall Islands", 
-      "Country Code": "MHL"
+      "Country Code": "MHL", 
+      "Country Low Year": "null"
    }, 
    "BLZ": {
       "percentage_data": {
-         "low_score": 8.6, 
          "2006": "12.6", 
          "2011": "8.6"
       }, 
+      "Country Low Percentage": 8.6, 
       "Country Name": "Belize", 
-      "Country Code": "BLZ"
+      "Country Code": "BLZ", 
+      "Country Low Year": 2011
    }, 
    "MMR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Myanmar", 
-      "Country Code": "MMR"
+      "Country Code": "MMR", 
+      "Country Low Year": "null"
    }, 
    "AFG": {
       "percentage_data": {
-         "low_score": 90.2, 
          "2011": "90.2"
       }, 
+      "Country Low Percentage": 90.2, 
       "Country Name": "Afghanistan", 
-      "Country Code": "AFG"
+      "Country Code": "AFG", 
+      "Country Low Year": 2011
    }, 
    "BDI": {
       "percentage_data": {
-         "low_score": 72.9, 
          "2010": "72.9"
       }, 
+      "Country Low Percentage": 72.9, 
       "Country Name": "Burundi", 
-      "Country Code": "BDI"
+      "Country Code": "BDI", 
+      "Country Low Year": 2010
    }, 
    "VGB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "British Virgin Islands", 
-      "Country Code": "VGB"
+      "Country Code": "VGB", 
+      "Country Low Year": "null"
    }, 
    "BLR": {
       "percentage_data": {
-         "low_score": 4.1, 
          "2012": "4.1"
       }, 
+      "Country Low Percentage": 4.1, 
       "Country Name": "Belarus", 
-      "Country Code": "BLR"
+      "Country Code": "BLR", 
+      "Country Low Year": 2012
    }, 
    "GRD": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Grenada", 
-      "Country Code": "GRD"
+      "Country Code": "GRD", 
+      "Country Low Year": "null"
    }, 
    "GRC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Greece", 
-      "Country Code": "GRC"
+      "Country Code": "GRC", 
+      "Country Low Year": "null"
    }, 
    "LSO": {
       "percentage_data": {
-         "low_score": 37.1, 
          "2009": "37.1", 
          "2004": "48.3"
       }, 
+      "Country Low Percentage": 37.1, 
       "Country Name": "Lesotho", 
-      "Country Code": "LSO"
+      "Country Code": "LSO", 
+      "Country Low Year": 2009
    }, 
    "GRL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Greenland", 
-      "Country Code": "GRL"
+      "Country Code": "GRL", 
+      "Country Low Year": "null"
    }, 
    "CSS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Caribbean small states", 
-      "Country Code": "CSS"
+      "Country Code": "CSS", 
+      "Country Low Year": "null"
    }, 
    "AND": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Andorra", 
-      "Country Code": "AND"
+      "Country Code": "AND", 
+      "Country Low Year": "null"
    }, 
    "MOZ": {
       "percentage_data": {
-         "low_score": 21.0, 
          "2003": "54.1", 
          "2011": "21"
       }, 
+      "Country Low Percentage": 21.0, 
       "Country Name": "Mozambique", 
-      "Country Code": "MOZ"
+      "Country Code": "MOZ", 
+      "Country Low Year": 2011
    }, 
    "INX": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Not classified", 
-      "Country Code": "INX"
+      "Country Code": "INX", 
+      "Country Low Year": "null"
    }, 
    "OSS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Other small states", 
-      "Country Code": "OSS"
+      "Country Code": "OSS", 
+      "Country Low Year": "null"
    }, 
    "SST": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Small states", 
-      "Country Code": "SST"
+      "Country Code": "SST", 
+      "Country Low Year": "null"
    }, 
    "TJK": {
       "percentage_data": {
-         "low_score": 59.6, 
          "2005": "74.4", 
          "2012": "59.6"
       }, 
+      "Country Low Percentage": 59.6, 
       "Country Name": "Tajikistan", 
-      "Country Code": "TJK"
+      "Country Code": "TJK", 
+      "Country Low Year": 2012
    }, 
    "HTI": {
       "percentage_data": {
-         "low_score": 16.7, 
          "2000": "39.9", 
          "2006": "31.4", 
          "2012": "16.7"
       }, 
+      "Country Low Percentage": 16.7, 
       "Country Name": "Haiti", 
-      "Country Code": "HTI"
+      "Country Code": "HTI", 
+      "Country Low Year": 2012
    }, 
    "MEX": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Mexico", 
-      "Country Code": "MEX"
+      "Country Code": "MEX", 
+      "Country Low Year": "null"
    }, 
    "ZWE": {
       "percentage_data": {
-         "low_score": 37.4, 
          "2014": "37.4", 
          "2011": "39.6", 
          "2006": "47.7"
       }, 
+      "Country Low Percentage": 37.4, 
       "1999": "51", 
+      "Country Code": "ZWE", 
       "Country Name": "Zimbabwe", 
-      "Country Code": "ZWE"
+      "Country Low Year": 2014
    }, 
    "LCA": {
       "percentage_data": {
-         "low_score": 6.5, 
          "2012": "6.5"
       }, 
+      "Country Low Percentage": 6.5, 
       "Country Name": "St. Lucia", 
-      "Country Code": "LCA"
+      "Country Code": "LCA", 
+      "Country Low Year": 2012
    }, 
    "IND": {
       "percentage_data": {
-         "low_score": 47.2, 
          "2006": "47.2"
       }, 
+      "Country Low Percentage": 47.2, 
       "Country Name": "India", 
-      "Country Code": "IND"
+      "Country Code": "IND", 
+      "Country Low Year": 2006
    }, 
    "LVA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Latvia", 
-      "Country Code": "LVA"
+      "Country Code": "LVA", 
+      "Country Low Year": "null"
    }, 
    "BTN": {
       "percentage_data": {
-         "low_score": 68.4, 
          "2010": "68.4"
       }, 
+      "Country Low Percentage": 68.4, 
       "Country Name": "Bhutan", 
-      "Country Code": "BTN"
+      "Country Code": "BTN", 
+      "Country Low Year": 2010
    }, 
    "SSA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sub-Saharan Africa (excluding high income)", 
-      "Country Code": "SSA"
+      "Country Code": "SSA", 
+      "Country Low Year": "null"
    }, 
    "VNM": {
       "percentage_data": {
-         "low_score": 28.2, 
          "2014": "28.2", 
          "2006": "63.8"
       }, 
+      "Country Low Percentage": 28.2, 
       "Country Name": "Vietnam", 
-      "Country Code": "VNM"
+      "Country Code": "VNM", 
+      "Country Low Year": 2014
    }, 
    "NOR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Norway", 
-      "Country Code": "NOR"
+      "Country Code": "NOR", 
+      "Country Low Year": "null"
    }, 
    "CZE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Czech Republic", 
-      "Country Code": "CZE"
+      "Country Code": "CZE", 
+      "Country Low Year": "null"
    }, 
    "ATG": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Antigua and Barbuda", 
-      "Country Code": "ATG"
+      "Country Code": "ATG", 
+      "Country Low Year": "null"
    }, 
    "FJI": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Fiji", 
-      "Country Code": "FJI"
+      "Country Code": "FJI", 
+      "Country Low Year": "null"
    }, 
    "TEC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Europe & Central Asia (IDA & IBRD countries)", 
-      "Country Code": "TEC"
+      "Country Code": "TEC", 
+      "Country Low Year": "null"
    }, 
    "HND": {
       "percentage_data": {
-         "low_score": 12.4, 
          "2006": "15.5", 
          "2012": "12.4"
       }, 
+      "Country Low Percentage": 12.4, 
       "Country Name": "Honduras", 
-      "Country Code": "HND"
+      "Country Code": "HND", 
+      "Country Low Year": 2012
    }, 
    "IDX": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "IDA only", 
-      "Country Code": "IDX"
+      "Country Code": "IDX", 
+      "Country Low Year": "null"
    }, 
    "DOM": {
       "percentage_data": {
          "2002": "8.6", 
          "2014": "2", 
-         "low_score": 2.0, 
          "2007": "3.9", 
          "2013": "2.3"
       }, 
+      "Country Low Percentage": 2.0, 
       "Country Name": "Dominican Republic", 
-      "Country Code": "DOM"
+      "Country Code": "DOM", 
+      "Country Low Year": 2014
    }, 
    "LUX": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Luxembourg", 
-      "Country Code": "LUX"
+      "Country Code": "LUX", 
+      "Country Low Year": "null"
    }, 
    "ISR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Israel", 
-      "Country Code": "ISR"
+      "Country Code": "ISR", 
+      "Country Low Year": "null"
    }, 
    "FSM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Micronesia, Fed. Sts.", 
-      "Country Code": "FSM"
+      "Country Code": "FSM", 
+      "Country Low Year": "null"
    }, 
    "PER": {
       "percentage_data": {
-         "low_score": 2.8, 
          "2006": "2.8", 
          "2008": "4.8", 
          "2009": "5.7", 
@@ -1097,955 +1151,1003 @@
          "2010": "4.9", 
          "2012": "3.5"
       }, 
+      "Country Low Percentage": 3.5, 
       "Country Name": "Peru", 
-      "Country Code": "PER"
+      "Country Code": "PER", 
+      "Country Low Year": 2012
    }, 
    "IDN": {
       "percentage_data": {
-         "low_score": 24.8, 
          "2003": "24.8", 
          "2007": "30.8", 
          "2012": "34.5"
       }, 
+      "Country Low Percentage": 34.5, 
       "Country Name": "Indonesia", 
-      "Country Code": "IDN"
+      "Country Code": "IDN", 
+      "Country Low Year": 2012
    }, 
    "VUT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Vanuatu", 
-      "Country Code": "VUT"
+      "Country Code": "VUT", 
+      "Country Low Year": "null"
    }, 
    "MKD": {
       "percentage_data": {
-         "low_score": 14.5, 
          "2011": "14.5", 
          "2005": "20.7"
       }, 
+      "Country Low Percentage": 14.5, 
       "Country Name": "Macedonia, FYR", 
-      "Country Code": "MKD"
+      "Country Code": "MKD", 
+      "Country Low Year": 2011
    }, 
    "SUR": {
       "percentage_data": {
-         "low_score": 12.5, 
          "2010": "12.5"
       }, 
+      "Country Low Percentage": 12.5, 
       "Country Name": "Suriname", 
-      "Country Code": "SUR"
+      "Country Code": "SUR", 
+      "Country Low Year": 2010
    }, 
    "COG": {
       "percentage_data": {
-         "low_score": 60.7, 
          "2005": "67.4", 
          "2012": "60.7"
       }, 
+      "Country Low Percentage": 60.7, 
       "Country Name": "Congo, Rep.", 
-      "Country Code": "COG"
+      "Country Code": "COG", 
+      "Country Low Year": 2012
    }, 
    "ISL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Iceland", 
-      "Country Code": "ISL"
+      "Country Code": "ISL", 
+      "Country Low Year": "null"
    }, 
    "ETH": {
       "percentage_data": {
-         "low_score": 68.4, 
          "2000": "84.5", 
          "2011": "68.4", 
          "2005": "81"
       }, 
+      "Country Low Percentage": 68.4, 
       "Country Name": "Ethiopia", 
-      "Country Code": "ETH"
+      "Country Code": "ETH", 
+      "Country Low Year": 2011
    }, 
    "COM": {
       "percentage_data": {
-         "low_score": 39.0, 
          "2012": "39"
       }, 
+      "Country Low Percentage": 39.0, 
       "Country Name": "Comoros", 
-      "Country Code": "COM"
+      "Country Code": "COM", 
+      "Country Low Year": 2012
    }, 
    "COL": {
       "percentage_data": {
-         "low_score": 2.3, 
          "2010": "2.3"
       }, 
+      "Country Low Percentage": 2.3, 
       "Country Name": "Colombia", 
-      "Country Code": "COL"
+      "Country Code": "COL", 
+      "Country Low Year": 2010
    }, 
    "TMN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Middle East & North Africa (IDA & IBRD countries)", 
-      "Country Code": "TMN"
+      "Country Code": "TMN", 
+      "Country Low Year": "null"
    }, 
    "IDA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "IDA total", 
-      "Country Code": "IDA"
+      "Country Code": "IDA", 
+      "Country Low Year": "null"
    }, 
    "TLS": {
       "percentage_data": {
-         "low_score": 86.2, 
          "2010": "86.2"
       }, 
+      "Country Low Percentage": 86.2, 
       "Country Name": "Timor-Leste", 
-      "Country Code": "TLS"
+      "Country Code": "TLS", 
+      "Country Low Year": 2010
    }, 
    "FCS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Fragile and conflict affected situations", 
-      "Country Code": "FCS"
+      "Country Code": "FCS", 
+      "Country Low Year": "null"
    }, 
    "ECA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Europe & Central Asia (excluding high income)", 
-      "Country Code": "ECA"
+      "Country Code": "ECA", 
+      "Country Low Year": "null"
    }, 
    "PRT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Portugal", 
-      "Country Code": "PRT"
+      "Country Code": "PRT", 
+      "Country Low Year": "null"
    }, 
    "TEA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "East Asia & Pacific (IDA & IBRD countries)", 
-      "Country Code": "TEA"
+      "Country Code": "TEA", 
+      "Country Low Year": "null"
    }, 
    "MDA": {
       "percentage_data": {
-         "low_score": 11.2, 
          "2005": "20.8", 
          "2012": "11.2"
       }, 
+      "Country Low Percentage": 11.2, 
       "Country Name": "Moldova", 
-      "Country Code": "MDA"
+      "Country Code": "MDA", 
+      "Country Low Year": 2012
    }, 
    "STP": {
       "percentage_data": {
-         "low_score": 19.1, 
          "2014": "19.1", 
          "2009": "19.5"
       }, 
+      "Country Low Percentage": 19.1, 
       "Country Name": "Sao Tome and Principe", 
-      "Country Code": "STP"
+      "Country Code": "STP", 
+      "Country Low Year": 2014
    }, 
    "MDG": {
       "percentage_data": {
-         "low_score": 28.0, 
          "2009": "32.3", 
          "2004": "28", 
          "2013": "45.2"
       }, 
+      "Country Low Percentage": 45.2, 
       "Country Name": "Madagascar", 
-      "Country Code": "MDG"
+      "Country Code": "MDG", 
+      "Country Low Year": 2013
    }, 
    "ECU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Ecuador", 
-      "Country Code": "ECU"
+      "Country Code": "ECU", 
+      "Country Low Year": "null"
    }, 
    "ECS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Europe & Central Asia", 
-      "Country Code": "ECS"
+      "Country Code": "ECS", 
+      "Country Low Year": "null"
    }, 
    "SEN": {
       "percentage_data": {
-         "low_score": 57.2, 
          "2014": "57.2", 
          "2011": "60", 
          "2013": "64.2", 
          "2005": "65.2"
       }, 
+      "Country Low Percentage": 57.2, 
       "Country Name": "Senegal", 
-      "Country Code": "SEN"
+      "Country Code": "SEN", 
+      "Country Low Year": 2014
    }, 
    "MDV": {
       "percentage_data": {
-         "low_score": 30.8, 
          "2009": "30.8"
       }, 
+      "Country Low Percentage": 30.8, 
       "Country Name": "Maldives", 
-      "Country Code": "MDV"
+      "Country Code": "MDV", 
+      "Country Low Year": 2009
    }, 
    "ASM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "American Samoa", 
-      "Country Code": "ASM"
+      "Country Code": "ASM", 
+      "Country Low Year": "null"
    }, 
    "CUW": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Curacao", 
-      "Country Code": "CUW"
+      "Country Code": "CUW", 
+      "Country Low Year": "null"
    }, 
    "FRA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "France", 
-      "Country Code": "FRA"
+      "Country Code": "FRA", 
+      "Country Low Year": "null"
    }, 
    "LTU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Lithuania", 
-      "Country Code": "LTU"
+      "Country Code": "LTU", 
+      "Country Low Year": "null"
    }, 
    "RWA": {
       "percentage_data": {
          "2015": "41.4", 
-         "low_score": 41.4, 
          "2000": "63.3", 
          "2010": "56.2", 
          "2005": "48"
       }, 
+      "Country Low Percentage": 41.4, 
       "Country Name": "Rwanda", 
-      "Country Code": "RWA"
+      "Country Code": "RWA", 
+      "Country Low Year": 2015
    }, 
    "ZMB": {
       "percentage_data": {
          "2002": "85.4", 
          "2014": "46.9", 
-         "low_score": 46.9, 
          "2007": "61.9"
       }, 
+      "Country Low Percentage": 46.9, 
       "Country Name": "Zambia", 
-      "Country Code": "ZMB"
+      "Country Code": "ZMB", 
+      "Country Low Year": 2014
    }, 
    "GMB": {
       "percentage_data": {
-         "low_score": 58.4, 
          "2006": "74", 
          "2013": "58.4"
       }, 
+      "Country Low Percentage": 58.4, 
       "Country Name": "Gambia, The", 
-      "Country Code": "GMB"
+      "Country Code": "GMB", 
+      "Country Low Year": 2013
    }, 
    "SSD": {
       "percentage_data": {
-         "low_score": 78.5, 
          "2010": "78.5"
       }, 
+      "Country Low Percentage": 78.5, 
       "Country Name": "South Sudan", 
-      "Country Code": "SSD"
+      "Country Code": "SSD", 
+      "Country Low Year": 2010
    }, 
    "FRO": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Faroe Islands", 
-      "Country Code": "FRO"
+      "Country Code": "FRO", 
+      "Country Low Year": "null"
    }, 
    "GTM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Guatemala", 
-      "Country Code": "GTM"
+      "Country Code": "GTM", 
+      "Country Low Year": "null"
    }, 
    "DNK": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Denmark", 
-      "Country Code": "DNK"
+      "Country Code": "DNK", 
+      "Country Low Year": "null"
    }, 
    "IMN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Isle of Man", 
-      "Country Code": "IMN"
+      "Country Code": "IMN", 
+      "Country Low Year": "null"
    }, 
    "AUS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Australia", 
-      "Country Code": "AUS"
+      "Country Code": "AUS", 
+      "Country Low Year": "null"
    }, 
    "AUT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Austria", 
-      "Country Code": "AUT"
+      "Country Code": "AUT", 
+      "Country Low Year": "null"
    }, 
    "LTE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Late-demographic dividend", 
-      "Country Code": "LTE"
+      "Country Code": "LTE", 
+      "Country Low Year": "null"
    }, 
    "EUU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "European Union", 
-      "Country Code": "EUU"
+      "Country Code": "EUU", 
+      "Country Low Year": "null"
    }, 
    "PSS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Pacific island small states", 
-      "Country Code": "PSS"
+      "Country Code": "PSS", 
+      "Country Low Year": "null"
    }, 
    "PLW": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Palau", 
-      "Country Code": "PLW"
+      "Country Code": "PLW", 
+      "Country Low Year": "null"
    }, 
    "KEN": {
       "percentage_data": {
-         "low_score": 41.8, 
          "2014": "41.8", 
          "2009": "52.6", 
          "2003": "67.9"
       }, 
+      "Country Low Percentage": 41.8, 
       "Country Name": "Kenya", 
-      "Country Code": "KEN"
+      "Country Code": "KEN", 
+      "Country Low Year": 2014
    }, 
    "MEA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Middle East & North Africa", 
-      "Country Code": "MEA"
+      "Country Code": "MEA", 
+      "Country Low Year": "null"
    }, 
    "WSM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Samoa", 
-      "Country Code": "WSM"
+      "Country Code": "WSM", 
+      "Country Low Year": "null"
    }, 
    "TUR": {
       "percentage_data": {
-         "low_score": 39.2, 
          "2003": "39.2"
       }, 
+      "Country Low Percentage": 39.2, 
       "Country Name": "Turkey", 
-      "Country Code": "TUR"
+      "Country Code": "TUR", 
+      "Country Low Year": 2003
    }, 
    "ALB": {
       "percentage_data": {
-         "low_score": 29.8, 
          "2009": "29.8", 
          "2005": "29.8"
       }, 
+      "Country Low Percentage": 29.8, 
       "Country Name": "Albania", 
-      "Country Code": "ALB"
+      "Country Code": "ALB", 
+      "Country Low Year": 2009
    }, 
    "OMN": {
       "percentage_data": {
-         "low_score": 7.9, 
          "2014": "7.9"
       }, 
+      "Country Low Percentage": 7.9, 
       "Country Name": "Oman", 
-      "Country Code": "OMN"
+      "Country Code": "OMN", 
+      "Country Low Year": 2014
    }, 
    "TUV": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Tuvalu", 
-      "Country Code": "TUV"
+      "Country Code": "TUV", 
+      "Country Low Year": "null"
    }, 
    "ITA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Italy", 
-      "Country Code": "ITA"
+      "Country Code": "ITA", 
+      "Country Low Year": "null"
    }, 
    "BRN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Brunei Darussalam", 
-      "Country Code": "BRN"
+      "Country Code": "BRN", 
+      "Country Low Year": "null"
    }, 
    "TUN": {
       "percentage_data": {
-         "low_score": 30.3, 
          "2012": "30.3"
       }, 
+      "Country Low Percentage": 30.3, 
       "Country Name": "Tunisia", 
-      "Country Code": "TUN"
+      "Country Code": "TUN", 
+      "Country Low Year": 2012
    }, 
    "OED": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "OECD members", 
-      "Country Code": "OED"
+      "Country Code": "OED", 
+      "Country Low Year": "null"
    }, 
    "RUS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Russian Federation", 
-      "Country Code": "RUS"
+      "Country Code": "RUS", 
+      "Country Low Year": "null"
    }, 
    "LMC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Lower middle income", 
-      "Country Code": "LMC"
+      "Country Code": "LMC", 
+      "Country Low Year": "null"
    }, 
    "BRB": {
       "percentage_data": {
-         "low_score": 3.3, 
          "2012": "3.3"
       }, 
+      "Country Low Percentage": 3.3, 
       "Country Name": "Barbados", 
-      "Country Code": "BRB"
+      "Country Code": "BRB", 
+      "Country Low Year": 2012
    }, 
    "BRA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Brazil", 
-      "Country Code": "BRA"
+      "Country Code": "BRA", 
+      "Country Low Year": "null"
    }, 
    "CIV": {
       "percentage_data": {
-         "low_score": 47.9, 
          "2012": "47.9"
       }, 
+      "Country Low Percentage": 47.9, 
       "Country Name": "Cote d'Ivoire", 
-      "Country Code": "CIV"
+      "Country Code": "CIV", 
+      "Country Low Year": 2012
    }, 
    "SRB": {
       "percentage_data": {
-         "low_score": 3.8, 
          "2014": "3.8", 
          "2006": "6.2"
       }, 
+      "Country Low Percentage": 3.8, 
       "Country Name": "Serbia", 
-      "Country Code": "SRB"
+      "Country Code": "SRB", 
+      "Country Low Year": 2014
    }, 
    "UMC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Upper middle income", 
-      "Country Code": "UMC"
+      "Country Code": "UMC", 
+      "Country Low Year": "null"
    }, 
    "GNQ": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Equatorial Guinea", 
-      "Country Code": "GNQ"
+      "Country Code": "GNQ", 
+      "Country Low Year": "null"
    }, 
    "USA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "United States", 
-      "Country Code": "USA"
+      "Country Code": "USA", 
+      "Country Low Year": "null"
    }, 
    "QAT": {
       "percentage_data": {
-         "low_score": 6.6, 
          "2012": "6.6"
       }, 
+      "Country Low Percentage": 6.6, 
       "Country Name": "Qatar", 
-      "Country Code": "QAT"
+      "Country Code": "QAT", 
+      "Country Low Year": 2012
    }, 
    "IBD": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "IBRD only", 
-      "Country Code": "IBD"
+      "Country Code": "IBD", 
+      "Country Low Year": "null"
    }, 
    "AZE": {
       "percentage_data": {
-         "low_score": 49.0, 
          "2006": "49"
       }, 
+      "Country Low Percentage": 49.0, 
       "Country Name": "Azerbaijan", 
-      "Country Code": "AZE"
+      "Country Code": "AZE", 
+      "Country Low Year": 2006
    }, 
    "GNB": {
       "percentage_data": {
-         "low_score": 41.8, 
          "2014": "41.8", 
          "2006": "51.5"
       }, 
+      "Country Low Percentage": 41.8, 
       "Country Name": "Guinea-Bissau", 
-      "Country Code": "GNB"
+      "Country Code": "GNB", 
+      "Country Low Year": 2014
    }, 
    "SWZ": {
       "percentage_data": {
-         "low_score": 19.9, 
          "2014": "19.9", 
          "2007": "23.2"
       }, 
+      "Country Low Percentage": 19.9, 
       "Country Name": "Swaziland", 
-      "Country Code": "SWZ"
+      "Country Code": "SWZ", 
+      "Country Low Year": 2014
    }, 
    "TON": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Tonga", 
-      "Country Code": "TON"
+      "Country Code": "TON", 
+      "Country Low Year": "null"
    }, 
    "CAN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Canada", 
-      "Country Code": "CAN"
+      "Country Code": "CAN", 
+      "Country Low Year": "null"
    }, 
    "UKR": {
       "percentage_data": {
-         "low_score": 2.9, 
          "2005": "5", 
          "2007": "3.6", 
          "2012": "2.9"
       }, 
+      "Country Low Percentage": 2.9, 
       "Country Name": "Ukraine", 
-      "Country Code": "UKR"
+      "Country Code": "UKR", 
+      "Country Low Year": 2012
    }, 
    "KOR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Korea, Rep.", 
-      "Country Code": "KOR"
+      "Country Code": "KOR", 
+      "Country Low Year": "null"
    }, 
    "IBT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "IDA & IBRD total", 
-      "Country Code": "IBT"
+      "Country Code": "IBT", 
+      "Country Low Year": "null"
    }, 
    "CAF": {
       "percentage_data": {
-         "low_score": 79.6, 
          "2010": "79.6"
       }, 
+      "Country Low Percentage": 79.6, 
       "Country Name": "Central African Republic", 
-      "Country Code": "CAF"
+      "Country Code": "CAF", 
+      "Country Low Year": 2010
    }, 
    "SVK": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Slovak Republic", 
-      "Country Code": "SVK"
+      "Country Code": "SVK", 
+      "Country Low Year": "null"
    }, 
    "CYP": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Cyprus", 
-      "Country Code": "CYP"
+      "Country Code": "CYP", 
+      "Country Low Year": "null"
    }, 
    "BIH": {
       "percentage_data": {
-         "low_score": 4.8, 
          "2006": "4.8", 
          "2012": "4.8"
       }, 
+      "Country Low Percentage": 4.8, 
       "Country Name": "Bosnia and Herzegovina", 
-      "Country Code": "BIH"
+      "Country Code": "BIH", 
+      "Country Low Year": 2012
    }, 
    "SGP": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Singapore", 
-      "Country Code": "SGP"
+      "Country Code": "SGP", 
+      "Country Low Year": "null"
    }, 
    "SOM": {
       "percentage_data": {
-         "low_score": 75.7, 
          "2006": "75.7"
       }, 
+      "Country Low Percentage": 75.7, 
       "Country Name": "Somalia", 
-      "Country Code": "SOM"
+      "Country Code": "SOM", 
+      "Country Low Year": 2006
    }, 
    "UZB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Uzbekistan", 
-      "Country Code": "UZB"
+      "Country Code": "UZB", 
+      "Country Low Year": "null"
    }, 
    "ERI": {
       "percentage_data": {
          "2002": "70.7", 
-         "low_score": 51.4, 
          "2010": "51.4"
       }, 
+      "Country Low Percentage": 51.4, 
       "Country Name": "Eritrea", 
-      "Country Code": "ERI"
+      "Country Code": "ERI", 
+      "Country Low Year": 2010
    }, 
    "POL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Poland", 
-      "Country Code": "POL"
+      "Country Code": "POL", 
+      "Country Low Year": "null"
    }, 
    "HIC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "High income", 
-      "Country Code": "HIC"
+      "Country Code": "HIC", 
+      "Country Low Year": "null"
    }, 
    "KWT": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Kuwait", 
-      "Country Code": "KWT"
+      "Country Code": "KWT", 
+      "Country Low Year": "null"
    }, 
    "EAP": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "East Asia & Pacific (excluding high income)", 
-      "Country Code": "EAP"
+      "Country Code": "EAP", 
+      "Country Low Year": "null"
    }, 
    "EAS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "East Asia & Pacific", 
-      "Country Code": "EAS"
+      "Country Code": "EAS", 
+      "Country Low Year": "null"
    }, 
    "EAR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Early-demographic dividend", 
-      "Country Code": "EAR"
+      "Country Code": "EAR", 
+      "Country Low Year": "null"
    }, 
    "GAB": {
       "percentage_data": {
-         "low_score": 50.2, 
          "2012": "50.2"
       }, 
+      "Country Low Percentage": 50.2, 
       "Country Name": "Gabon", 
-      "Country Code": "GAB"
+      "Country Code": "GAB", 
+      "Country Low Year": 2012
    }, 
    "CYM": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Cayman Islands", 
-      "Country Code": "CYM"
+      "Country Code": "CYM", 
+      "Country Low Year": "null"
    }, 
    "TSA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "South Asia (IDA & IBRD)", 
-      "Country Code": "TSA"
+      "Country Code": "TSA", 
+      "Country Low Year": "null"
    }, 
    "EST": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Estonia", 
-      "Country Code": "EST"
+      "Country Code": "EST", 
+      "Country Low Year": "null"
    }, 
    "MWI": {
       "percentage_data": {
-         "low_score": 12.6, 
          "2014": "12.9", 
          "2000": "35.7", 
          "2010": "12.6", 
          "2004": "28.2"
       }, 
+      "Country Low Percentage": 12.9, 
       "Country Name": "Malawi", 
-      "Country Code": "MWI"
+      "Country Code": "MWI", 
+      "Country Low Year": 2014
    }, 
    "ESP": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Spain", 
-      "Country Code": "ESP"
+      "Country Code": "ESP", 
+      "Country Low Year": "null"
    }, 
    "IRQ": {
       "percentage_data": {
-         "low_score": 51.2, 
          "2011": "51.2"
       }, 
+      "Country Low Percentage": 51.2, 
       "Country Name": "Iraq", 
-      "Country Code": "IRQ"
+      "Country Code": "IRQ", 
+      "Country Low Year": 2011
    }, 
    "SLV": {
       "percentage_data": {
-         "low_score": 8.0, 
          "2014": "8"
       }, 
+      "Country Low Percentage": 8.0, 
       "Country Name": "El Salvador", 
-      "Country Code": "SLV"
+      "Country Code": "SLV", 
+      "Country Low Year": 2014
    }, 
    "MLI": {
       "percentage_data": {
-         "low_score": 75.2, 
          "2001": "88.8", 
          "2006": "75.2", 
          "2010": "87.2", 
          "2013": "76.3"
       }, 
+      "Country Low Percentage": 76.3, 
       "Country Name": "Mali", 
-      "Country Code": "MLI"
+      "Country Code": "MLI", 
+      "Country Low Year": 2013
    }, 
    "LCN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Latin America & Caribbean", 
-      "Country Code": "LCN"
+      "Country Code": "LCN", 
+      "Country Low Year": "null"
    }, 
    "IRL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Ireland", 
-      "Country Code": "IRL"
+      "Country Code": "IRL", 
+      "Country Low Year": "null"
    }, 
    "IRN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Iran, Islamic Rep.", 
-      "Country Code": "IRN"
+      "Country Code": "IRN", 
+      "Country Low Year": "null"
    }, 
    "ABW": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Aruba", 
-      "Country Code": "ABW"
+      "Country Code": "ABW", 
+      "Country Low Year": "null"
    }, 
    "HPC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Heavily indebted poor countries (HIPC)", 
-      "Country Code": "HPC"
+      "Country Code": "HPC", 
+      "Country Low Year": "null"
    }, 
    "PNG": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Papua New Guinea", 
-      "Country Code": "PNG"
+      "Country Code": "PNG", 
+      "Country Low Year": "null"
    }, 
    "PAN": {
       "percentage_data": {
-         "low_score": 5.7, 
          "2014": "5.7"
       }, 
+      "Country Low Percentage": 5.7, 
       "Country Name": "Panama", 
-      "Country Code": "PAN"
+      "Country Code": "PAN", 
+      "Country Low Year": 2014
    }, 
    "SDN": {
       "percentage_data": {
-         "low_score": 34.0, 
          "2014": "34"
       }, 
+      "Country Low Percentage": 34.0, 
       "Country Name": "Sudan", 
-      "Country Code": "SDN"
+      "Country Code": "SDN", 
+      "Country Low Year": 2014
    }, 
    "SLB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Solomon Islands", 
-      "Country Code": "SLB"
+      "Country Code": "SLB", 
+      "Country Low Year": "null"
    }, 
    "NZL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "New Zealand", 
-      "Country Code": "NZL"
+      "Country Code": "NZL", 
+      "Country Low Year": "null"
    }, 
    "MCO": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Monaco", 
-      "Country Code": "MCO"
+      "Country Code": "MCO", 
+      "Country Low Year": "null"
    }, 
    "SSF": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sub-Saharan Africa", 
-      "Country Code": "SSF"
+      "Country Code": "SSF", 
+      "Country Low Year": "null"
    }, 
    "JPN": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Japan", 
-      "Country Code": "JPN"
+      "Country Code": "JPN", 
+      "Country Low Year": "null"
    }, 
    "NAC": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "North America", 
-      "Country Code": "NAC"
+      "Country Code": "NAC", 
+      "Country Low Year": "null"
    }, 
    "KGZ": {
       "percentage_data": {
-         "low_score": 32.8, 
          "2014": "32.8", 
          "2006": "37.7", 
          "2012": "33.7"
       }, 
+      "Country Low Percentage": 32.8, 
       "Country Name": "Kyrgyz Republic", 
-      "Country Code": "KGZ"
+      "Country Code": "KGZ", 
+      "Country Low Year": 2014
    }, 
    "TLA": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)", 
-      "Country Code": "TLA"
+      "Country Code": "TLA", 
+      "Country Low Year": "null"
    }, 
    "TSS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)", 
-      "Country Code": "TSS"
+      "Country Code": "TSS", 
+      "Country Low Year": "null"
    }, 
    "PST": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Post-demographic dividend", 
-      "Country Code": "PST"
+      "Country Code": "PST", 
+      "Country Low Year": "null"
    }, 
    "ARB": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Arab World", 
-      "Country Code": "ARB"
+      "Country Code": "ARB", 
+      "Country Low Year": "null"
    }, 
    "UGA": {
       "percentage_data": {
-         "low_score": 58.3, 
          "2006": "70.2", 
          "2001": "76.5", 
          "2011": "58.3"
       }, 
+      "Country Low Percentage": 58.3, 
       "Country Name": "Uganda", 
-      "Country Code": "UGA"
+      "Country Code": "UGA", 
+      "Country Low Year": 2011
    }, 
    "NCL": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "New Caledonia", 
-      "Country Code": "NCL"
+      "Country Code": "NCL", 
+      "Country Low Year": "null"
    }, 
    "ARE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "United Arab Emirates", 
-      "Country Code": "ARE"
+      "Country Code": "ARE", 
+      "Country Low Year": "null"
    }, 
    "ARG": {
       "percentage_data": {
-         "low_score": 2.0, 
          "2012": "2"
       }, 
+      "Country Low Percentage": 2.0, 
       "Country Name": "Argentina", 
-      "Country Code": "ARG"
+      "Country Code": "ARG", 
+      "Country Low Year": 2012
    }, 
    "SWE": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Sweden", 
-      "Country Code": "SWE"
+      "Country Code": "SWE", 
+      "Country Low Year": "null"
    }, 
    "BHS": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Bahamas, The", 
-      "Country Code": "BHS"
+      "Country Code": "BHS", 
+      "Country Low Year": "null"
    }, 
    "BHR": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Bahrain", 
-      "Country Code": "BHR"
+      "Country Code": "BHR", 
+      "Country Low Year": "null"
    }, 
    "ARM": {
       "percentage_data": {
-         "low_score": 9.3, 
          "2000": "32.3", 
          "2010": "9.3", 
          "2005": "22.1"
       }, 
+      "Country Low Percentage": 9.3, 
       "Country Name": "Armenia", 
-      "Country Code": "ARM"
+      "Country Code": "ARM", 
+      "Country Low Year": 2010
    }, 
    "NRU": {
-      "percentage_data": {
-         "low_score": "null"
-      }, 
+      "percentage_data": {}, 
+      "Country Low Percentage": "null", 
       "Country Name": "Nauru", 
-      "Country Code": "NRU"
+      "Country Code": "NRU", 
+      "Country Low Year": "null"
    }, 
    "CUB": {
       "percentage_data": {
-         "low_score": 3.9, 
          "2014": "3.9"
       }, 
+      "Country Low Percentage": 3.9, 
       "Country Name": "Cuba", 
-      "Country Code": "CUB"
+      "Country Code": "CUB", 
+      "Country Low Year": 2014
    }
 }
