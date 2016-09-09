@@ -13,31 +13,61 @@ import json
 #     jsonfile.write('\n')
 # jsonfile.write(']')
 
-jsonfile = open('spi_2016.json', 'r')
-spi_data = json.load(jsonfile)
-jsonfile.close()
+# jsonfile = open('wo_ju.json', 'r')
+# woju_data = json.load(jsonfile)
+# jsonfile.close()
 
-jsonfile = open('wo_ju.json', 'r')
-woju_data = json.load(jsonfile)
-jsonfile.close()
+# jsonfile = open('edu_net.json', 'r')
+# edu_data = json.load(jsonfile)
+# jsonfile.close()
 
+# jsonfile = open('gdp_cap.json', 'r')
+# gdp_data = json.load(jsonfile)
+# jsonfile.close()
 
-new_data = {}
+# jsonfile = open('nut_well.json', 'r')
+# nut_data = json.load(jsonfile)
+# jsonfile.close()
 
-for country in spi_data["data"]:
-	new_data[country['Country Code']] = {}
-	new_data[country['Country Code']]['spi_data'] = {}
-	for key in country:
-		if key != "Nutrition and Basic Medical Care" and key != "Country Code" and key != "Country" :	
-			pass
-		else:
-			new_data[country['Country Code']]['spi_data'][key] = country[key]	
+# new_data = {}
 
-for country in new_data:
-	if country in woju_data and woju_data[country]["Country Low Percentage"] != "null":
-		new_data[country]["In Wo_Ju Data"] = True
-	else:
-		new_data[country]["In Wo_Ju Data"] = False				
+# for country in woju_data:
+# 	if woju_data[country]["Country Low Percentage"] != "null":
+# 		new_data[woju_data[country]['Country Code']] = {}
+# 		new_data[woju_data[country]['Country Code']]["Country Name"] = woju_data[country]["Country Name"]
+# 		new_data[woju_data[country]['Country Code']]["Country Code"] = woju_data[country]["Country Code"]
+# 		new_data[woju_data[country]['Country Code']]["Justification Percentage"] = float(woju_data[country]["Country Low Percentage"])
+
+# for country in edu_data:
+# 	if "EDU for Wo_Ju Low" in edu_data[country]:
+# 		new_data[edu_data[country]['Country Code']]["Education Percentage"] = float(edu_data[country]["EDU for Wo_Ju Low"])
+
+# for country in gdp_data:
+# 	if "GDP for Wo_Ju Low" in gdp_data[country]:
+# 		new_data[gdp_data[country]['Country Code']]["GDP Capita"] = float(gdp_data[country]["GDP for Wo_Ju Low"])
+
+# for country in nut_data:
+# 	if nut_data[country]["In Wo_Ju Data"] == True and nut_data[country]['spi_data']["Nutrition and Basic Medical Care"] != "":
+# 		new_data[nut_data[country]['spi_data']['Country Code']]["NutWell Score"] = float(nut_data[country]['spi_data']["Nutrition and Basic Medical Care"])					
+# 	if nut_data[country]["In Wo_Ju Data"] == True and nut_data[country]['spi_data']["Nutrition and Basic Medical Care"] == "":
+# 		new_data[nut_data[country]['spi_data']['Country Code']]["NutWell Score"] = "null"
+
+# new_data = {}
+
+# for country in spi_data["data"]:
+# 	new_data[country['Country Code']] = {}
+# 	new_data[country['Country Code']]['spi_data'] = {}
+# 	for key in country:
+# 		if key != "Nutrition and Basic Medical Care" and key != "Country Code" and key != "Country" :	
+# 			pass
+# 		else:
+# 			new_data[country['Country Code']]['spi_data'][key] = country[key]	
+
+# for country in new_data:
+# 	if country in woju_data and woju_data[country]["Country Low Percentage"] != "null":
+# 		new_data[country]["In Wo_Ju Data"] = True
+# 	else:
+# 		new_data[country]["In Wo_Ju Data"] = False				
 
 # new_data = {}
 
@@ -117,11 +147,55 @@ for country in new_data:
 # 	else:
 # 		new_data[country]['Country Low Year'] = "null"
 # 		new_data[country]['Country Low Percentage'] = "null"
+
+
+# jsonfile = open('aggregate.json', 'r')
+# agg_data = json.load(jsonfile)
+# jsonfile.close()
+
+# new_data = {}
+# count = 0
+# for country in agg_data:
+# 	count += 1
+# print count				
+
+jsonfile = open('aggregate.json', 'r')
+agg_data = json.load(jsonfile)
+jsonfile.close()
+
+#emp_data = employee_parsed['employee_details']
+
+# open a file for writing
+
+aggreg = open('AggData.csv', 'w')
+
+# create the csv writer object
+
+csvwriter = csv.writer(aggreg)
+
+count = 0
+
+for country in agg_data[0]:
+
+	print country
+	if count == 0:
+
+		header = agg_data[0][country].keys()
+
+		csvwriter.writerow(header)
+
+		count += 1
+	
+	csvwriter.writerow(agg_data[0][country].values())
+
+aggreg.close()
 					
+# jsonfile = open('aggregate_nice.json', 'r')
+# agg_data = json.load(jsonfile)
+# jsonfile.close()
 
-
-jsonfile = open("nut_well.json", "w+")
-jsonfile.write(json.dumps(new_data))
-jsonfile.close()			
+# jsonfile = open("aggregate.json", "w+")
+# jsonfile.write(json.dumps(new_data))
+# jsonfile.close()			
 
 
