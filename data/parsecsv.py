@@ -29,6 +29,10 @@ import json
 # nut_data = json.load(jsonfile)
 # jsonfile.close()
 
+# jsonfile = open('marriage_nice.json', 'r')
+# mar_data = json.load(jsonfile)
+# jsonfile.close()
+
 # new_data = {}
 
 # for country in woju_data:
@@ -52,13 +56,20 @@ import json
 # 	if nut_data[country]["In Wo_Ju Data"] == True and nut_data[country]['spi_data']["Nutrition and Basic Medical Care"] == "":
 # 		new_data[nut_data[country]['spi_data']['Country Code']]["NutWell Score"] = "null"
 
+# for country in mar_data:
+# 	if mar_data[country]['spi_data']["Early marriage"] != "" and country in new_data:
+# 		print "yay"
+# 		new_data[mar_data[country]['spi_data']['Country Code']]["Marriage Score"] = float(mar_data[country]['spi_data']["Early marriage"])					
+# 	if mar_data[country]['spi_data']["Early marriage"] == "" and country in new_data:
+# 		new_data[mar_data[country]['spi_data']['Country Code']]["Marriage Score"] = "null"		
+
 # new_data = {}
 
 # for country in spi_data["data"]:
 # 	new_data[country['Country Code']] = {}
 # 	new_data[country['Country Code']]['spi_data'] = {}
 # 	for key in country:
-# 		if key != "Nutrition and Basic Medical Care" and key != "Country Code" and key != "Country" :	
+# 		if key != "Early marriage" and key != "Country Code" and key != "Country" :	
 # 			pass
 # 		else:
 # 			new_data[country['Country Code']]['spi_data'][key] = country[key]	
@@ -149,23 +160,26 @@ import json
 # 		new_data[country]['Country Low Percentage'] = "null"
 
 
-# jsonfile = open('aggregate.json', 'r')
+# jsonfile = open('aggregate_nice.json', 'r')
 # agg_data = json.load(jsonfile)
 # jsonfile.close()
 
 # new_data = {}
 # count = 0
 # for country in agg_data:
-# 	count += 1
+# 	print country
+# 	if "Justification Percentage" in agg_data[country] and "Country Code" in agg_data[country] and "GDP Capita" in agg_data[country] and "Country Name" in agg_data[country] and "NutWell Score" in agg_data[country] and "Marriage Score" in agg_data[country] and "Education Percentage" in agg_data[country]:
+# 		count += 1
+# 		new_data[country] = agg_data[country]
 # print count				
 
-jsonfile = open('aggregate.json', 'r')
+jsonfile = open('aggregate_nice.json', 'r')
 agg_data = json.load(jsonfile)
 jsonfile.close()
 
 #emp_data = employee_parsed['employee_details']
 
-# open a file for writing
+#open a file for writing
 
 aggreg = open('AggData.csv', 'w')
 
@@ -190,12 +204,12 @@ for country in agg_data[0]:
 
 aggreg.close()
 					
-# jsonfile = open('aggregate_nice.json', 'r')
+# jsonfile = open('marriage_nice.json', 'r')
 # agg_data = json.load(jsonfile)
 # jsonfile.close()
 
-# jsonfile = open("aggregate.json", "w+")
-# jsonfile.write(json.dumps(new_data))
+# jsonfile = open("aggregate_nice.json", "w+")
+# jsonfile.write(json.dumps(new_data, indent=3))
 # jsonfile.close()			
 
 

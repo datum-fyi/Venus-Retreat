@@ -1,1 +1,28 @@
+library(ggplot2)
+library(GGally)
+library(scales)
+library(memisc)
+library(RColorBrewer)
+library(bitops)
+library(RCurl)
+library(gridExtra)
+library(dplyr)
+library(alr3)
+library(reshape2)
+library(gridExtra)
+library(Rcpp)
+library(knitr)
+library(scales)
+library(lubridate)
+library(RColorBrewer)
+library(MASS)
+library(aod)
+library(ResourceSelection)
+library(rmarkdown)
+
 agg <- read.csv('AggData.csv')
+
+ggplot(data= agg, aes(x=Justification.Percentage, y= GDP.Capita)) + geom_point(alpha=0.5, aes(size=1))
+
+fit <- lm(Justification.Percentage ~ NutWell.Score + Education.Percentage +Marriage.Score + log(GDP.Capita), data=agg)
+summary(fit) # show results

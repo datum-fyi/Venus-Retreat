@@ -1,0 +1,1122 @@
+{
+   "DZA": {
+      "spi_data": {
+         "Country": "Algeria", 
+         "Early marriage": "0.02", 
+         "Country Code": "DZA"
+      }
+   }, 
+   "AGO": {
+      "spi_data": {
+         "Country": "Angola", 
+         "Early marriage": "0.36", 
+         "Country Code": "AGO"
+      }
+   }, 
+   "EGY": {
+      "spi_data": {
+         "Country": "Egypt", 
+         "Early marriage": "0.14", 
+         "Country Code": "EGY"
+      }
+   }, 
+   "BGD": {
+      "spi_data": {
+         "Country": "Bangladesh", 
+         "Early marriage": "0.46", 
+         "Country Code": "BGD"
+      }
+   }, 
+   "QAT": {
+      "spi_data": {
+         "Country": "Qatar", 
+         "Early marriage": "0.18", 
+         "Country Code": "QAT"
+      }
+   }, 
+   "NAM": {
+      "spi_data": {
+         "Country": "Namibia", 
+         "Early marriage": "0.05", 
+         "Country Code": "NAM"
+      }
+   }, 
+   "BGR": {
+      "spi_data": {
+         "Country": "Bulgaria", 
+         "Early marriage": "0.09", 
+         "Country Code": "BGR"
+      }
+   }, 
+   "BOL": {
+      "spi_data": {
+         "Country": "Bolivia", 
+         "Early marriage": "0.15", 
+         "Country Code": "BOL"
+      }
+   }, 
+   "GHA": {
+      "spi_data": {
+         "Country": "Ghana", 
+         "Early marriage": "0.09", 
+         "Country Code": "GHA"
+      }
+   }, 
+   "PAK": {
+      "spi_data": {
+         "Country": "Pakistan", 
+         "Early marriage": "0.11", 
+         "Country Code": "PAK"
+      }
+   }, 
+   "PAN": {
+      "spi_data": {
+         "Country": "Panama", 
+         "Early marriage": "0.22", 
+         "Country Code": "PAN"
+      }
+   }, 
+   "JOR": {
+      "spi_data": {
+         "Country": "Jordan", 
+         "Early marriage": "0.07", 
+         "Country Code": "JOR"
+      }
+   }, 
+   "LBR": {
+      "spi_data": {
+         "Country": "Liberia", 
+         "Early marriage": "0.2", 
+         "Country Code": "LBR"
+      }
+   }, 
+   "LBY": {
+      "spi_data": {
+         "Country": "Libya", 
+         "Early marriage": "0.03", 
+         "Country Code": "LBY"
+      }
+   }, 
+   "MYS": {
+      "spi_data": {
+         "Country": "Malaysia", 
+         "Early marriage": "0.06", 
+         "Country Code": "MYS"
+      }
+   }, 
+   "TZA": {
+      "spi_data": {
+         "Country": "Tanzania", 
+         "Early marriage": "0.2", 
+         "Country Code": "TZA"
+      }
+   }, 
+   "BWA": {
+      "spi_data": {
+         "Country": "Botswana", 
+         "Early marriage": "0.05", 
+         "Country Code": "BWA"
+      }
+   }, 
+   "KHM": {
+      "spi_data": {
+         "Country": "Cambodia", 
+         "Early marriage": "0.11", 
+         "Country Code": "KHM"
+      }
+   }, 
+   "PRY": {
+      "spi_data": {
+         "Country": "Paraguay", 
+         "Early marriage": "0.13", 
+         "Country Code": "PRY"
+      }
+   }, 
+   "SAU": {
+      "spi_data": {
+         "Country": "Saudi Arabia", 
+         "Early marriage": "0.04", 
+         "Country Code": "SAU"
+      }
+   }, 
+   "LBN": {
+      "spi_data": {
+         "Country": "Lebanon", 
+         "Early marriage": "0.03", 
+         "Country Code": "LBN"
+      }
+   }, 
+   "SVN": {
+      "spi_data": {
+         "Country": "Slovenia", 
+         "Early marriage": "0.01", 
+         "Country Code": "SVN"
+      }
+   }, 
+   "BFA": {
+      "spi_data": {
+         "Country": "Burkina Faso", 
+         "Early marriage": "0.32", 
+         "Country Code": "BFA"
+      }
+   }, 
+   "SVK": {
+      "spi_data": {
+         "Country": "Slovakia", 
+         "Early marriage": "0.01", 
+         "Country Code": "SVK"
+      }
+   }, 
+   "MRT": {
+      "spi_data": {
+         "Country": "Mauritania", 
+         "Early marriage": "0.28", 
+         "Country Code": "MRT"
+      }
+   }, 
+   "CPV": {
+      "spi_data": {
+         "Country": "Cape Verde", 
+         "Early marriage": "", 
+         "Country Code": "CPV"
+      }
+   }, 
+   "HRV": {
+      "spi_data": {
+         "Country": "Croatia", 
+         "Early marriage": "0.02", 
+         "Country Code": "HRV"
+      }
+   }, 
+   "CHL": {
+      "spi_data": {
+         "Country": "Chile", 
+         "Early marriage": "0.06", 
+         "Country Code": "CHL"
+      }
+   }, 
+   "CHN": {
+      "spi_data": {
+         "Country": "China", 
+         "Early marriage": "0.02", 
+         "Country Code": "CHN"
+      }
+   }, 
+   "JAM": {
+      "spi_data": {
+         "Country": "Jamaica", 
+         "Early marriage": "0.01", 
+         "Country Code": "JAM"
+      }
+   }, 
+   "DJI": {
+      "spi_data": {
+         "Country": "Djibouti", 
+         "Early marriage": "", 
+         "Country Code": "DJI"
+      }
+   }, 
+   "GIN": {
+      "spi_data": {
+         "Country": "Guinea", 
+         "Early marriage": "0.38", 
+         "Country Code": "GIN"
+      }
+   }, 
+   "FIN": {
+      "spi_data": {
+         "Country": "Finland", 
+         "Early marriage": "0.01", 
+         "Country Code": "FIN"
+      }
+   }, 
+   "URY": {
+      "spi_data": {
+         "Country": "Uruguay", 
+         "Early marriage": "0.11", 
+         "Country Code": "URY"
+      }
+   }, 
+   "THA": {
+      "spi_data": {
+         "Country": "Thailand", 
+         "Early marriage": "0.11", 
+         "Country Code": "THA"
+      }
+   }, 
+   "NPL": {
+      "spi_data": {
+         "Country": "Nepal", 
+         "Early marriage": "0.29", 
+         "Country Code": "NPL"
+      }
+   }, 
+   "MAR": {
+      "spi_data": {
+         "Country": "Morocco", 
+         "Early marriage": "0.11", 
+         "Country Code": "MAR"
+      }
+   }, 
+   "YEM": {
+      "spi_data": {
+         "Country": "Yemen", 
+         "Early marriage": "0.17", 
+         "Country Code": "YEM"
+      }
+   }, 
+   "PHL": {
+      "spi_data": {
+         "Country": "Philippines", 
+         "Early marriage": "0.05", 
+         "Country Code": "PHL"
+      }
+   }, 
+   "ZAF": {
+      "spi_data": {
+         "Country": "South Africa", 
+         "Early marriage": "0.03", 
+         "Country Code": "ZAF"
+      }
+   }, 
+   "NIC": {
+      "spi_data": {
+         "Country": "Nicaragua", 
+         "Early marriage": "0.3", 
+         "Country Code": "NIC"
+      }
+   }, 
+   "MNE": {
+      "spi_data": {
+         "Country": "Montenegro", 
+         "Early marriage": "", 
+         "Country Code": "MNE"
+      }
+   }, 
+   "MLT": {
+      "spi_data": {
+         "Country": "Malta", 
+         "Early marriage": "", 
+         "Country Code": "MLT"
+      }
+   }, 
+   "KAZ": {
+      "spi_data": {
+         "Country": "Kazakhstan", 
+         "Early marriage": "0.05", 
+         "Country Code": "KAZ"
+      }
+   }, 
+   "SUR": {
+      "spi_data": {
+         "Country": "Suriname", 
+         "Early marriage": "", 
+         "Country Code": "SUR"
+      }
+   }, 
+   "BEN": {
+      "spi_data": {
+         "Country": "Benin", 
+         "Early marriage": "0.22", 
+         "Country Code": "BEN"
+      }
+   }, 
+   "NGA": {
+      "spi_data": {
+         "Country": "Nigeria", 
+         "Early marriage": "0.29", 
+         "Country Code": "NGA"
+      }
+   }, 
+   "BEL": {
+      "spi_data": {
+         "Country": "Belgium", 
+         "Early marriage": "0.01", 
+         "Country Code": "BEL"
+      }
+   }, 
+   "DEU": {
+      "spi_data": {
+         "Country": "Germany", 
+         "Early marriage": "0", 
+         "Country Code": "DEU"
+      }
+   }, 
+   "LKA": {
+      "spi_data": {
+         "Country": "Sri Lanka", 
+         "Early marriage": "0.09", 
+         "Country Code": "LKA"
+      }
+   }, 
+   "GBR": {
+      "spi_data": {
+         "Country": "United Kingdom", 
+         "Early marriage": "0", 
+         "Country Code": "GBR"
+      }
+   }, 
+   "MWI": {
+      "spi_data": {
+         "Country": "Malawi", 
+         "Early marriage": "0.26", 
+         "Country Code": "MWI"
+      }
+   }, 
+   "CRI": {
+      "spi_data": {
+         "Country": "Costa Rica", 
+         "Early marriage": "0.13", 
+         "Country Code": "CRI"
+      }
+   }, 
+   "CMR": {
+      "spi_data": {
+         "Country": "Cameroon", 
+         "Early marriage": "0.26", 
+         "Country Code": "CMR"
+      }
+   }, 
+   "LSO": {
+      "spi_data": {
+         "Country": "Lesotho", 
+         "Early marriage": "0.15", 
+         "Country Code": "LSO"
+      }
+   }, 
+   "HUN": {
+      "spi_data": {
+         "Country": "Hungary", 
+         "Early marriage": "0.01", 
+         "Country Code": "HUN"
+      }
+   }, 
+   "TKM": {
+      "spi_data": {
+         "Country": "Turkmenistan", 
+         "Early marriage": "0.05", 
+         "Country Code": "TKM"
+      }
+   }, 
+   "TTO": {
+      "spi_data": {
+         "Country": "Trinidad and Tobago", 
+         "Early marriage": "0.03", 
+         "Country Code": "TTO"
+      }
+   }, 
+   "NLD": {
+      "spi_data": {
+         "Country": "Netherlands", 
+         "Early marriage": "0", 
+         "Country Code": "NLD"
+      }
+   }, 
+   "COM": {
+      "spi_data": {
+         "Country": "Comoros", 
+         "Early marriage": "", 
+         "Country Code": "COM"
+      }
+   }, 
+   "TCD": {
+      "spi_data": {
+         "Country": "Chad", 
+         "Early marriage": "0.45", 
+         "Country Code": "TCD"
+      }
+   }, 
+   "GEO": {
+      "spi_data": {
+         "Country": "Georgia", 
+         "Early marriage": "0.14", 
+         "Country Code": "GEO"
+      }
+   }, 
+   "ROU": {
+      "spi_data": {
+         "Country": "Romania", 
+         "Early marriage": "0.03", 
+         "Country Code": "ROU"
+      }
+   }, 
+   "MNG": {
+      "spi_data": {
+         "Country": "Mongolia", 
+         "Early marriage": "0.04", 
+         "Country Code": "MNG"
+      }
+   }, 
+   "BLZ": {
+      "spi_data": {
+         "Country": "Belize", 
+         "Early marriage": "", 
+         "Country Code": "BLZ"
+      }
+   }, 
+   "MMR": {
+      "spi_data": {
+         "Country": "Myanmar", 
+         "Early marriage": "0.07", 
+         "Country Code": "MMR"
+      }
+   }, 
+   "AFG": {
+      "spi_data": {
+         "Country": "Afghanistan", 
+         "Early marriage": "0.17", 
+         "Country Code": "AFG"
+      }
+   }, 
+   "BDI": {
+      "spi_data": {
+         "Country": "Burundi", 
+         "Early marriage": "0.1", 
+         "Country Code": "BDI"
+      }
+   }, 
+   "BLR": {
+      "spi_data": {
+         "Country": "Belarus", 
+         "Early marriage": "0.04", 
+         "Country Code": "BLR"
+      }
+   }, 
+   "GRC": {
+      "spi_data": {
+         "Country": "Greece", 
+         "Early marriage": "0.04", 
+         "Country Code": "GRC"
+      }
+   }, 
+   "ZWE": {
+      "spi_data": {
+         "Country": "Zimbabwe", 
+         "Early marriage": "0.26", 
+         "Country Code": "ZWE"
+      }
+   }, 
+   "RWA": {
+      "spi_data": {
+         "Country": "Rwanda", 
+         "Early marriage": "0.04", 
+         "Country Code": "RWA"
+      }
+   }, 
+   "TJK": {
+      "spi_data": {
+         "Country": "Tajikistan", 
+         "Early marriage": "0.13", 
+         "Country Code": "TJK"
+      }
+   }, 
+   "HTI": {
+      "spi_data": {
+         "Country": "Haiti", 
+         "Early marriage": "0.19", 
+         "Country Code": "HTI"
+      }
+   }, 
+   "IND": {
+      "spi_data": {
+         "Country": "India", 
+         "Early marriage": "0.28", 
+         "Country Code": "IND"
+      }
+   }, 
+   "LVA": {
+      "spi_data": {
+         "Country": "Latvia", 
+         "Early marriage": "0.01", 
+         "Country Code": "LVA"
+      }
+   }, 
+   "BTN": {
+      "spi_data": {
+         "Country": "Bhutan", 
+         "Early marriage": "0.14", 
+         "Country Code": "BTN"
+      }
+   }, 
+   "VNM": {
+      "spi_data": {
+         "Country": "Vietnam", 
+         "Early marriage": "0.1", 
+         "Country Code": "VNM"
+      }
+   }, 
+   "NOR": {
+      "spi_data": {
+         "Country": "Norway", 
+         "Early marriage": "0", 
+         "Country Code": "NOR"
+      }
+   }, 
+   "CZE": {
+      "spi_data": {
+         "Country": "Czech Republic", 
+         "Early marriage": "0", 
+         "Country Code": "CZE"
+      }
+   }, 
+   "HND": {
+      "spi_data": {
+         "Country": "Honduras", 
+         "Early marriage": "0.25", 
+         "Country Code": "HND"
+      }
+   }, 
+   "MUS": {
+      "spi_data": {
+         "Country": "Mauritius", 
+         "Early marriage": "0.1", 
+         "Country Code": "MUS"
+      }
+   }, 
+   "DOM": {
+      "spi_data": {
+         "Country": "Dominican Republic", 
+         "Early marriage": "0.27", 
+         "Country Code": "DOM"
+      }
+   }, 
+   "LUX": {
+      "spi_data": {
+         "Country": "Luxembourg", 
+         "Early marriage": "0.01", 
+         "Country Code": "LUX"
+      }
+   }, 
+   "ISR": {
+      "spi_data": {
+         "Country": "Israel", 
+         "Early marriage": "0.03", 
+         "Country Code": "ISR"
+      }
+   }, 
+   "PER": {
+      "spi_data": {
+         "Country": "Peru", 
+         "Early marriage": "0.16", 
+         "Country Code": "PER"
+      }
+   }, 
+   "IDN": {
+      "spi_data": {
+         "Country": "Indonesia", 
+         "Early marriage": "0.14", 
+         "Country Code": "IDN"
+      }
+   }, 
+   "COD": {
+      "spi_data": {
+         "Country": "Congo, Democratic Republic of", 
+         "Early marriage": "0.25", 
+         "Country Code": "COD"
+      }
+   }, 
+   "COG": {
+      "spi_data": {
+         "Country": "Congo, Republic of", 
+         "Early marriage": "0.2", 
+         "Country Code": "COG"
+      }
+   }, 
+   "ISL": {
+      "spi_data": {
+         "Country": "Iceland", 
+         "Early marriage": "0.01", 
+         "Country Code": "ISL"
+      }
+   }, 
+   "GAB": {
+      "spi_data": {
+         "Country": "Gabon", 
+         "Early marriage": "0.22", 
+         "Country Code": "GAB"
+      }
+   }, 
+   "ETH": {
+      "spi_data": {
+         "Country": "Ethiopia", 
+         "Early marriage": "0.23", 
+         "Country Code": "ETH"
+      }
+   }, 
+   "NER": {
+      "spi_data": {
+         "Country": "Niger", 
+         "Early marriage": "0.61", 
+         "Country Code": "NER"
+      }
+   }, 
+   "COL": {
+      "spi_data": {
+         "Country": "Colombia", 
+         "Early marriage": "0.17", 
+         "Country Code": "COL"
+      }
+   }, 
+   "PRT": {
+      "spi_data": {
+         "Country": "Portugal", 
+         "Early marriage": "0.05", 
+         "Country Code": "PRT"
+      }
+   }, 
+   "MDA": {
+      "spi_data": {
+         "Country": "Moldova", 
+         "Early marriage": "0.11", 
+         "Country Code": "MDA"
+      }
+   }, 
+   "MDG": {
+      "spi_data": {
+         "Country": "Madagascar", 
+         "Early marriage": "0.4", 
+         "Country Code": "MDG"
+      }
+   }, 
+   "ECU": {
+      "spi_data": {
+         "Country": "Ecuador", 
+         "Early marriage": "0.22", 
+         "Country Code": "ECU"
+      }
+   }, 
+   "SEN": {
+      "spi_data": {
+         "Country": "Senegal", 
+         "Early marriage": "0.25", 
+         "Country Code": "SEN"
+      }
+   }, 
+   "SRB": {
+      "spi_data": {
+         "Country": "Serbia", 
+         "Early marriage": "0.05", 
+         "Country Code": "SRB"
+      }
+   }, 
+   "FRA": {
+      "spi_data": {
+         "Country": "France", 
+         "Early marriage": "0.01", 
+         "Country Code": "FRA"
+      }
+   }, 
+   "LTU": {
+      "spi_data": {
+         "Country": "Lithuania", 
+         "Early marriage": "0", 
+         "Country Code": "LTU"
+      }
+   }, 
+   "UGA": {
+      "spi_data": {
+         "Country": "Uganda", 
+         "Early marriage": "0.23", 
+         "Country Code": "UGA"
+      }
+   }, 
+   "ZMB": {
+      "spi_data": {
+         "Country": "Zambia", 
+         "Early marriage": "0.19", 
+         "Country Code": "ZMB"
+      }
+   }, 
+   "GMB": {
+      "spi_data": {
+         "Country": "Gambia, The", 
+         "Early marriage": "0.25", 
+         "Country Code": "GMB"
+      }
+   }, 
+   "GTM": {
+      "spi_data": {
+         "Country": "Guatemala", 
+         "Early marriage": "0.2", 
+         "Country Code": "GTM"
+      }
+   }, 
+   "DNK": {
+      "spi_data": {
+         "Country": "Denmark", 
+         "Early marriage": "0", 
+         "Country Code": "DNK"
+      }
+   }, 
+   "UKR": {
+      "spi_data": {
+         "Country": "Ukraine", 
+         "Early marriage": "0.07", 
+         "Country Code": "UKR"
+      }
+   }, 
+   "AUS": {
+      "spi_data": {
+         "Country": "Australia", 
+         "Early marriage": "0.01", 
+         "Country Code": "AUS"
+      }
+   }, 
+   "AUT": {
+      "spi_data": {
+         "Country": "Austria", 
+         "Early marriage": "0", 
+         "Country Code": "AUT"
+      }
+   }, 
+   "VEN": {
+      "spi_data": {
+         "Country": "Venezuela", 
+         "Early marriage": "0.17", 
+         "Country Code": "VEN"
+      }
+   }, 
+   "KEN": {
+      "spi_data": {
+         "Country": "Kenya", 
+         "Early marriage": "0.13", 
+         "Country Code": "KEN"
+      }
+   }, 
+   "LAO": {
+      "spi_data": {
+         "Country": "Laos", 
+         "Early marriage": "0.2", 
+         "Country Code": "LAO"
+      }
+   }, 
+   "TUR": {
+      "spi_data": {
+         "Country": "Turkey", 
+         "Early marriage": "0.1", 
+         "Country Code": "TUR"
+      }
+   }, 
+   "ALB": {
+      "spi_data": {
+         "Country": "Albania", 
+         "Early marriage": "0.07", 
+         "Country Code": "ALB"
+      }
+   }, 
+   "OMN": {
+      "spi_data": {
+         "Country": "Oman", 
+         "Early marriage": "0.04", 
+         "Country Code": "OMN"
+      }
+   }, 
+   "ITA": {
+      "spi_data": {
+         "Country": "Italy", 
+         "Early marriage": "0", 
+         "Country Code": "ITA"
+      }
+   }, 
+   "TUN": {
+      "spi_data": {
+         "Country": "Tunisia", 
+         "Early marriage": "0.02", 
+         "Country Code": "TUN"
+      }
+   }, 
+   "RUS": {
+      "spi_data": {
+         "Country": "Russia", 
+         "Early marriage": "0.08", 
+         "Country Code": "RUS"
+      }
+   }, 
+   "MEX": {
+      "spi_data": {
+         "Country": "Mexico", 
+         "Early marriage": "0.17", 
+         "Country Code": "MEX"
+      }
+   }, 
+   "BRA": {
+      "spi_data": {
+         "Country": "Brazil", 
+         "Early marriage": "0.04", 
+         "Country Code": "BRA"
+      }
+   }, 
+   "CIV": {
+      "spi_data": {
+         "Country": "C\u00f4te d'Ivoire", 
+         "Early marriage": "0.25", 
+         "Country Code": "CIV"
+      }
+   }, 
+   "TLS": {
+      "spi_data": {
+         "Country": "Timor-Leste", 
+         "Early marriage": "0.08", 
+         "Country Code": "TLS"
+      }
+   }, 
+   "MKD": {
+      "spi_data": {
+         "Country": "Macedonia", 
+         "Early marriage": "0.07", 
+         "Country Code": "MKD"
+      }
+   }, 
+   "USA": {
+      "spi_data": {
+         "Country": "United States", 
+         "Early marriage": "0.03", 
+         "Country Code": "USA"
+      }
+   }, 
+   "MOZ": {
+      "spi_data": {
+         "Country": "Mozambique", 
+         "Early marriage": "0.45", 
+         "Country Code": "MOZ"
+      }
+   }, 
+   "SWE": {
+      "spi_data": {
+         "Country": "Sweden", 
+         "Early marriage": "0.01", 
+         "Country Code": "SWE"
+      }
+   }, 
+   "AZE": {
+      "spi_data": {
+         "Country": "Azerbaijan", 
+         "Early marriage": "0.08", 
+         "Country Code": "AZE"
+      }
+   }, 
+   "GNB": {
+      "spi_data": {
+         "Country": "Guinea-Bissau", 
+         "Early marriage": "0.22", 
+         "Country Code": "GNB"
+      }
+   }, 
+   "SWZ": {
+      "spi_data": {
+         "Country": "Swaziland", 
+         "Early marriage": "0.07", 
+         "Country Code": "SWZ"
+      }
+   }, 
+   "CAN": {
+      "spi_data": {
+         "Country": "Canada", 
+         "Early marriage": "0.03", 
+         "Country Code": "CAN"
+      }
+   }, 
+   "GUY": {
+      "spi_data": {
+         "Country": "Guyana", 
+         "Early marriage": "", 
+         "Country Code": "GUY"
+      }
+   }, 
+   "KOR": {
+      "spi_data": {
+         "Country": "Korea, Republic of", 
+         "Early marriage": "0", 
+         "Country Code": "KOR"
+      }
+   }, 
+   "CAF": {
+      "spi_data": {
+         "Country": "Central African Republic", 
+         "Early marriage": "0.42", 
+         "Country Code": "CAF"
+      }
+   }, 
+   "CHE": {
+      "spi_data": {
+         "Country": "Switzerland", 
+         "Early marriage": "0.01", 
+         "Country Code": "CHE"
+      }
+   }, 
+   "CYP": {
+      "spi_data": {
+         "Country": "Cyprus", 
+         "Early marriage": "0.02", 
+         "Country Code": "CYP"
+      }
+   }, 
+   "BIH": {
+      "spi_data": {
+         "Country": "Bosnia and Herzegovina", 
+         "Early marriage": "0.17", 
+         "Country Code": "BIH"
+      }
+   }, 
+   "SGP": {
+      "spi_data": {
+         "Country": "Singapore", 
+         "Early marriage": "0", 
+         "Country Code": "SGP"
+      }
+   }, 
+   "UZB": {
+      "spi_data": {
+         "Country": "Uzbekistan", 
+         "Early marriage": "0.05", 
+         "Country Code": "UZB"
+      }
+   }, 
+   "POL": {
+      "spi_data": {
+         "Country": "Poland", 
+         "Early marriage": "0.02", 
+         "Country Code": "POL"
+      }
+   }, 
+   "KWT": {
+      "spi_data": {
+         "Country": "Kuwait", 
+         "Early marriage": "0.05", 
+         "Country Code": "KWT"
+      }
+   }, 
+   "TGO": {
+      "spi_data": {
+         "Country": "Togo", 
+         "Early marriage": "0.16", 
+         "Country Code": "TGO"
+      }
+   }, 
+   "EST": {
+      "spi_data": {
+         "Country": "Estonia", 
+         "Early marriage": "0.05", 
+         "Country Code": "EST"
+      }
+   }, 
+   "ESP": {
+      "spi_data": {
+         "Country": "Spain", 
+         "Early marriage": "0.01", 
+         "Country Code": "ESP"
+      }
+   }, 
+   "IRQ": {
+      "spi_data": {
+         "Country": "Iraq", 
+         "Early marriage": "0.19", 
+         "Country Code": "IRQ"
+      }
+   }, 
+   "SLV": {
+      "spi_data": {
+         "Country": "El Salvador", 
+         "Early marriage": "0.17", 
+         "Country Code": "SLV"
+      }
+   }, 
+   "MLI": {
+      "spi_data": {
+         "Country": "Mali", 
+         "Early marriage": "0.53", 
+         "Country Code": "MLI"
+      }
+   }, 
+   "IRL": {
+      "spi_data": {
+         "Country": "Ireland", 
+         "Early marriage": "0", 
+         "Country Code": "IRL"
+      }
+   }, 
+   "IRN": {
+      "spi_data": {
+         "Country": "Iran", 
+         "Early marriage": "0.21", 
+         "Country Code": "IRN"
+      }
+   }, 
+   "SLE": {
+      "spi_data": {
+         "Country": "Sierra Leone", 
+         "Early marriage": "0.31", 
+         "Country Code": "SLE"
+      }
+   }, 
+   "NZL": {
+      "spi_data": {
+         "Country": "New Zealand", 
+         "Early marriage": "0.08", 
+         "Country Code": "NZL"
+      }
+   }, 
+   "JPN": {
+      "spi_data": {
+         "Country": "Japan", 
+         "Early marriage": "0.01", 
+         "Country Code": "JPN"
+      }
+   }, 
+   "KGZ": {
+      "spi_data": {
+         "Country": "Kyrgyzstan", 
+         "Early marriage": "0.08", 
+         "Country Code": "KGZ"
+      }
+   }, 
+   "ARE": {
+      "spi_data": {
+         "Country": "United Arab Emirates", 
+         "Early marriage": "0.07", 
+         "Country Code": "ARE"
+      }
+   }, 
+   "ARG": {
+      "spi_data": {
+         "Country": "Argentina", 
+         "Early marriage": "0.13", 
+         "Country Code": "ARG"
+      }
+   }, 
+   "SDN": {
+      "spi_data": {
+         "Country": "Sudan", 
+         "Early marriage": "0.24", 
+         "Country Code": "SDN"
+      }
+   }, 
+   "BHR": {
+      "spi_data": {
+         "Country": "Bahrain", 
+         "Early marriage": "0.04", 
+         "Country Code": "BHR"
+      }
+   }, 
+   "ARM": {
+      "spi_data": {
+         "Country": "Armenia", 
+         "Early marriage": "0.08", 
+         "Country Code": "ARM"
+      }
+   }, 
+   "PNG": {
+      "spi_data": {
+         "Country": "Papua New Guinea", 
+         "Early marriage": "0.16", 
+         "Country Code": "PNG"
+      }
+   }, 
+   "CUB": {
+      "spi_data": {
+         "Country": "Cuba", 
+         "Early marriage": "0.23", 
+         "Country Code": "CUB"
+      }
+   }
+}
