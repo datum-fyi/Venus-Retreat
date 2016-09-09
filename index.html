@@ -21,17 +21,42 @@
   </style>
 
   <script type="text/javascript">
-	  function draw(json_data) {
+	function draw(json_data) {
 	  	console.log("hello")
-	  	d3.select(".chart")
-		  .selectAll("div")
+
+	  	"use strict";
+        var width = parseInt(d3.select("#scatter_chart").style('width'), 10);
+        var height = parseInt(d3.select("#scatter_chart").style('height'), 10);
+         
+
+        var svg = d3.select("#scatter_chart")
+            .append("svg")
+            .attr('class', 'svg_scatter')
+            .attr("width", width)
+            .attr("height", height)
+
+	  	var scatter_x_scale = d3.scale.linear()
+					                    .domain([0,12500])
+					                    .range([0, 400]);
+
+		var scatter_y_scale = d3.scale.linear()
+					                    .domain([100,0])
+					                    .range([0, 400]);
+
+	  	svg.selectAll("circle")
 		    .data(json_data)
-		  .enter().append("div")
+		  .enter().append("circle")
 		  	.attr('class', 'bar')
-		    .style("width", function(d) {
-		    	return d['Justification Percentage'] * 10 + "px"; })
-		    .text(function(d) { return d['Country Code']; });
-	  }
+		  	.attr('fill', 'red')
+		    .attr("r", function(d) {
+		    	return "10px"; })
+		    .attr("cx", function(d) {
+		    	return scatter_x_scale(d['GDP Capita']); })
+		    .attr("cy", function(d) {
+		    	return scatter_y_scale(d['Justification Percentage']); })
+
+			                       
+	  
 
 
 
@@ -39,6 +64,11 @@
 
 
 
+
+
+
+
+	}
   </script>
 
 
@@ -52,7 +82,7 @@
 
 </head>
 <body>
-<div class="chart"></div>
+<div class="chart" id="scatter_chart"></div>
 	<script type="text/javascript">  
 		d3.json("/data/d3_ready_nice.json", function(error, graph) {
 		  if (error) return console.error(error);
