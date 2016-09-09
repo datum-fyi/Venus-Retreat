@@ -1,0 +1,426 @@
+[
+   {
+      "Justification Percentage": 3.8, 
+      "Country Code": "SRB", 
+      "GDP Capita": 6200.17322102474, 
+      "Education Percentage": 92.20523, 
+      "Country Name": "Serbia", 
+      "NutWell Score": 98.89
+   }, 
+   {
+      "Justification Percentage": 28.3, 
+      "Country Code": "BGD", 
+      "GDP Capita": 1086.80008676935, 
+      "Education Percentage": 46.25018, 
+      "Country Name": "Bangladesh", 
+      "NutWell Score": 83.96
+   }, 
+   {
+      "Justification Percentage": 12.4, 
+      "Country Code": "HND", 
+      "GDP Capita": 2395.07344192129, 
+      "Education Percentage": 49.25936, 
+      "Country Name": "Honduras", 
+      "NutWell Score": 90.02
+   }, 
+   {
+      "Justification Percentage": 2.0, 
+      "Country Code": "DOM", 
+      "GDP Capita": 6147.3435691579, 
+      "Education Percentage": 65.45761, 
+      "Country Name": "Dominican Republic", 
+      "NutWell Score": 89.84
+   }, 
+   {
+      "Justification Percentage": 49.0, 
+      "Country Code": "AZE", 
+      "GDP Capita": 2473.08577636837, 
+      "Education Percentage": 86.01537, 
+      "Country Name": "Azerbaijan", 
+      "NutWell Score": 95.55
+   }, 
+   {
+      "Justification Percentage": 3.5, 
+      "Country Code": "PER", 
+      "GDP Capita": 6389.63057629035, 
+      "Education Percentage": 75.52851, 
+      "Country Name": "Peru", 
+      "NutWell Score": 93.8
+   }, 
+   {
+      "Justification Percentage": 28.2, 
+      "Country Code": "NAM", 
+      "GDP Capita": 5420.81169032783, 
+      "Education Percentage": 53.87794, 
+      "Country Name": "Namibia", 
+      "NutWell Score": 65.26
+   }, 
+   {
+      "Justification Percentage": 34.5, 
+      "Country Code": "IDN", 
+      "GDP Capita": 3700.52353809447, 
+      "Education Percentage": 74.13554, 
+      "Country Name": "Indonesia", 
+      "NutWell Score": 91.49
+   }, 
+   {
+      "Justification Percentage": 19.9, 
+      "Country Code": "SWZ", 
+      "GDP Capita": 3477.14924558956, 
+      "Education Percentage": 32.8174, 
+      "Country Name": "Swaziland", 
+      "NutWell Score": 65.58
+   }, 
+   {
+      "Justification Percentage": 16.1, 
+      "Country Code": "BOL", 
+      "GDP Capita": 1736.92401415151, 
+      "Education Percentage": 72.57954, 
+      "Country Name": "Bolivia", 
+      "NutWell Score": 84.16
+   }, 
+   {
+      "Justification Percentage": 28.3, 
+      "Country Code": "GHA", 
+      "GDP Capita": 1441.63645311166, 
+      "Education Percentage": 54.60724, 
+      "Country Name": "Ghana", 
+      "NutWell Score": 83.9
+   }, 
+   {
+      "Justification Percentage": 62.8, 
+      "Country Code": "SLE", 
+      "GDP Capita": 802.535625496596, 
+      "Education Percentage": 37.27371, 
+      "Country Name": "Sierra Leone", 
+      "NutWell Score": 44.6
+   }, 
+   {
+      "Justification Percentage": 12.9, 
+      "Country Code": "MWI", 
+      "GDP Capita": 362.247486595025, 
+      "Education Percentage": 32.94229, 
+      "Country Name": "Malawi", 
+      "NutWell Score": 67.08
+   }, 
+   {
+      "Justification Percentage": 3.5, 
+      "Country Code": "CRI", 
+      "GDP Capita": 8963.68005199175, 
+      "Education Percentage": 75.85511, 
+      "Country Name": "Costa Rica", 
+      "NutWell Score": 97.42
+   }, 
+   {
+      "Justification Percentage": 59.6, 
+      "Country Code": "NER", 
+      "GDP Capita": 393.64342304494, 
+      "Education Percentage": 15.66504, 
+      "Country Name": "Niger", 
+      "NutWell Score": 71.78
+   }, 
+   {
+      "Justification Percentage": 36.1, 
+      "Country Code": "CMR", 
+      "GDP Capita": 1407.40341322234, 
+      "Education Percentage": 43.13556, 
+      "Country Name": "Cameroon", 
+      "NutWell Score": 71.29
+   }, 
+   {
+      "Justification Percentage": 5.7, 
+      "Country Code": "PAN", 
+      "GDP Capita": 12712.431328999, 
+      "Education Percentage": 66.15957, 
+      "Country Name": "Panama", 
+      "NutWell Score": 92.67
+   }, 
+   {
+      "Justification Percentage": 42.5, 
+      "Country Code": "LBR", 
+      "GDP Capita": 453.339457045359, 
+      "Education Percentage": 16.6531, 
+      "Country Name": "Liberia", 
+      "NutWell Score": 59.68
+   }, 
+   {
+      "Justification Percentage": 37.1, 
+      "Country Code": "LSO", 
+      "GDP Capita": 859.828065883852, 
+      "Education Percentage": 29.81042, 
+      "Country Name": "Lesotho", 
+      "NutWell Score": 67.69
+   }, 
+   {
+      "Justification Percentage": 58.3, 
+      "Country Code": "UGA", 
+      "GDP Capita": 591.438623816353, 
+      "Education Percentage": 22.87236, 
+      "Country Name": "Uganda", 
+      "NutWell Score": 70.02
+   }, 
+   {
+      "Justification Percentage": 11.2, 
+      "Country Code": "MDA", 
+      "GDP Capita": 2046.53678665109, 
+      "Education Percentage": 77.909, 
+      "Country Name": "Moldova", 
+      "NutWell Score": 97.61
+   }, 
+   {
+      "Justification Percentage": 45.2, 
+      "Country Code": "MDG", 
+      "GDP Capita": 462.973999137211, 
+      "Education Percentage": 31.08041, 
+      "Country Name": "Madagascar", 
+      "NutWell Score": 69.12
+   }, 
+   {
+      "Justification Percentage": 12.9, 
+      "Country Code": "PHL", 
+      "GDP Capita": 2786.95046841825, 
+      "Education Percentage": 67.44246, 
+      "Country Name": "Philippines", 
+      "NutWell Score": 87.52
+   }, 
+   {
+      "Justification Percentage": 6.9, 
+      "Country Code": "GEO", 
+      "GDP Capita": 1530.05752090499, 
+      "Education Percentage": 76.16447, 
+      "Country Name": "Georgia", 
+      "NutWell Score": 95.51
+   }, 
+   {
+      "Justification Percentage": 9.7, 
+      "Country Code": "LBN", 
+      "GDP Capita": 8403.10931605671, 
+      "Education Percentage": 70.79084, 
+      "Country Name": "Lebanon", 
+      "NutWell Score": 97.9
+   }, 
+   {
+      "Justification Percentage": 86.2, 
+      "Country Code": "TLS", 
+      "GDP Capita": 875.836569271265, 
+      "Education Percentage": 43.79449, 
+      "Country Name": "Timor-Leste", 
+      "NutWell Score": 75.05
+   }, 
+   {
+      "Justification Percentage": 43.5, 
+      "Country Code": "BFA", 
+      "GDP Capita": 574.458089293656, 
+      "Education Percentage": 16.48259, 
+      "Country Name": "Burkina Faso", 
+      "NutWell Score": 68.5
+   }, 
+   {
+      "Justification Percentage": 76.3, 
+      "Country Code": "MLI", 
+      "GDP Capita": 798.318480769749, 
+      "Education Percentage": 32.70159, 
+      "Country Name": "Mali", 
+      "NutWell Score": 73.71
+   }, 
+   {
+      "Justification Percentage": 8.6, 
+      "Country Code": "BLZ", 
+      "GDP Capita": 4516.23303047149, 
+      "Education Percentage": 65.40976, 
+      "Country Name": "Belize", 
+      "NutWell Score": 95.31
+   }, 
+   {
+      "Justification Percentage": 8.0, 
+      "Country Code": "SLV", 
+      "GDP Capita": 4102.0638517964, 
+      "Education Percentage": 63.78784, 
+      "Country Name": "El Salvador", 
+      "NutWell Score": 91.53
+   }, 
+   {
+      "Justification Percentage": 90.2, 
+      "Country Code": "AFG", 
+      "GDP Capita": 622.379654358451, 
+      "Education Percentage": 48.75032, 
+      "Country Name": "Afghanistan", 
+      "NutWell Score": 69.05
+   }, 
+   {
+      "Justification Percentage": 2.9, 
+      "Country Code": "UKR", 
+      "GDP Capita": 3855.4212801318, 
+      "Education Percentage": 85.06572, 
+      "Country Name": "Ukraine", 
+      "NutWell Score": 97.99
+   }, 
+   {
+      "Justification Percentage": 42.2, 
+      "Country Code": "PAK", 
+      "GDP Capita": 1275.71274958523, 
+      "Education Percentage": 39.3455, 
+      "Country Name": "Pakistan", 
+      "NutWell Score": 75.16
+   }, 
+   {
+      "Justification Percentage": 4.9, 
+      "Country Code": "JAM", 
+      "GDP Capita": 5332.47436123876, 
+      "Education Percentage": 77.71826, 
+      "Country Name": "Jamaica", 
+      "NutWell Score": 93.47
+   }, 
+   {
+      "Justification Percentage": 3.9, 
+      "Country Code": "CUB", 
+      "GDP Capita": 5688.66673216525, 
+      "Education Percentage": 87.89724, 
+      "Country Name": "Cuba", 
+      "NutWell Score": 98.57
+   }, 
+   {
+      "Justification Percentage": 92.1, 
+      "Country Code": "GIN", 
+      "GDP Capita": 487.345714209237, 
+      "Education Percentage": 31.78818, 
+      "Country Name": "Guinea", 
+      "NutWell Score": 66.83
+   }, 
+   {
+      "Justification Percentage": 4.1, 
+      "Country Code": "BLR", 
+      "GDP Capita": 6721.83490773968, 
+      "Education Percentage": 96.18483, 
+      "Country Name": "Belarus", 
+      "NutWell Score": 99.16
+   }, 
+   {
+      "Justification Percentage": 1.5, 
+      "Country Code": "URY", 
+      "GDP Capita": 16881.38400062, 
+      "Education Percentage": 71.98036, 
+      "Country Name": "Uruguay", 
+      "NutWell Score": 97.71
+   }, 
+   {
+      "Justification Percentage": 13.1, 
+      "Country Code": "THA", 
+      "GDP Capita": 5915.22114668686, 
+      "Education Percentage": 79.60135, 
+      "Country Name": "Thailand", 
+      "NutWell Score": 94.78
+   }, 
+   {
+      "Justification Percentage": 21.0, 
+      "Country Code": "MOZ", 
+      "GDP Capita": 524.89145294127, 
+      "Education Percentage": 16.33355, 
+      "Country Name": "Mozambique", 
+      "NutWell Score": 62.06
+   }, 
+   {
+      "Justification Percentage": 63.9, 
+      "Country Code": "MAR", 
+      "GDP Capita": 1955.14193078879, 
+      "Education Percentage": 50.53357, 
+      "Country Name": "Morocco", 
+      "NutWell Score": 93.37
+   }, 
+   {
+      "Justification Percentage": 48.7, 
+      "Country Code": "YEM", 
+      "GDP Capita": 1408.14619260488, 
+      "Education Percentage": 39.08479, 
+      "Country Name": "Yemen, Rep.", 
+      "NutWell Score": 72.31
+   }, 
+   {
+      "Justification Percentage": 0.8, 
+      "Country Code": "NPL", 
+      "GDP Capita": 695.883198294347, 
+      "Education Percentage": 54.69006, 
+      "Country Name": "Nepal", 
+      "NutWell Score": 87.85
+   }, 
+   {
+      "Justification Percentage": 12.5, 
+      "Country Code": "NIC", 
+      "GDP Capita": 1043.60075786956, 
+      "Education Percentage": 39.27882, 
+      "Country Name": "Nicaragua", 
+      "NutWell Score": 87.41
+   }, 
+   {
+      "Justification Percentage": 59.6, 
+      "Country Code": "TJK", 
+      "GDP Capita": 962.439124853526, 
+      "Education Percentage": 82.21297, 
+      "Country Name": "Tajikistan", 
+      "NutWell Score": 76.15
+   }, 
+   {
+      "Justification Percentage": 32.8, 
+      "Country Code": "KGZ", 
+      "GDP Capita": 1279.76978265986, 
+      "Education Percentage": 80.17757, 
+      "Country Name": "Kyrgyz Republic", 
+      "NutWell Score": 94.72
+   }, 
+   {
+      "Justification Percentage": 29.8, 
+      "Country Code": "ALB", 
+      "GDP Capita": 4114.13654490945, 
+      "Education Percentage": 85.27821, 
+      "Country Name": "Albania", 
+      "NutWell Score": 97.7
+   }, 
+   {
+      "Justification Percentage": 58.2, 
+      "Country Code": "LAO", 
+      "GDP Capita": 1445.86945014266, 
+      "Education Percentage": 42.52031, 
+      "Country Name": "Lao PDR", 
+      "NutWell Score": 78.61
+   }, 
+   {
+      "Justification Percentage": 2.0, 
+      "Country Code": "ARG", 
+      "GDP Capita": 14357.4115893903, 
+      "Education Percentage": 87.3181, 
+      "Country Name": "Argentina", 
+      "NutWell Score": 97.29
+   }, 
+   {
+      "Justification Percentage": 12.2, 
+      "Country Code": "KAZ", 
+      "GDP Capita": 12102.6868573563, 
+      "Education Percentage": 95.94628, 
+      "Country Name": "Kazakhstan", 
+      "NutWell Score": 97.45
+   }, 
+   {
+      "Justification Percentage": 10.1, 
+      "Country Code": "MNG", 
+      "GDP Capita": 2650.34688487431, 
+      "Education Percentage": 86.32153, 
+      "Country Name": "Mongolia", 
+      "NutWell Score": 86.24
+   }, 
+   {
+      "Justification Percentage": 39.2, 
+      "Country Code": "TUR", 
+      "GDP Capita": 4586.81120315865, 
+      "Education Percentage": 71.53301, 
+      "Country Name": "Turkey", 
+      "NutWell Score": 97.94
+   }, 
+   {
+      "Justification Percentage": 12.5, 
+      "Country Code": "SUR", 
+      "GDP Capita": 8430.90596506227, 
+      "Education Percentage": 46.8771, 
+      "Country Name": "Suriname", 
+      "NutWell Score": 92.31
+   }
+]
