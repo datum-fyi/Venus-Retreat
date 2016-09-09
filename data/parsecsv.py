@@ -173,43 +173,52 @@ import json
 # 		new_data[country] = agg_data[country]
 # print count				
 
+# jsonfile = open('aggregate_nice.json', 'r')
+# agg_data = json.load(jsonfile)
+# jsonfile.close()
+
+# #emp_data = employee_parsed['employee_details']
+
+# #open a file for writing
+
+# aggreg = open('AggData.csv', 'w')
+
+# # create the csv writer object
+
+# csvwriter = csv.writer(aggreg)
+
+# count = 0
+
+# for country in agg_data[0]:
+
+# 	print country
+# 	if count == 0:
+
+# 		header = agg_data[0][country].keys()
+
+# 		csvwriter.writerow(header)
+
+# 		count += 1
+	
+# 	csvwriter.writerow(agg_data[0][country].values())
+
+# aggreg.close()
+					
 jsonfile = open('aggregate_nice.json', 'r')
 agg_data = json.load(jsonfile)
 jsonfile.close()
 
-#emp_data = employee_parsed['employee_details']
+new_data = []
 
-#open a file for writing
+for country in agg_data:
+	new_data.append(agg_data[country])
 
-aggreg = open('AggData.csv', 'w')
+print new_data
 
-# create the csv writer object
 
-csvwriter = csv.writer(aggreg)
 
-count = 0
-
-for country in agg_data[0]:
-
-	print country
-	if count == 0:
-
-		header = agg_data[0][country].keys()
-
-		csvwriter.writerow(header)
-
-		count += 1
-	
-	csvwriter.writerow(agg_data[0][country].values())
-
-aggreg.close()
-					
-# jsonfile = open('marriage_nice.json', 'r')
-# agg_data = json.load(jsonfile)
-# jsonfile.close()
-
-# jsonfile = open("aggregate_nice.json", "w+")
-# jsonfile.write(json.dumps(new_data, indent=3))
-# jsonfile.close()			
+jsonfile = open("d3_ready_nice.json", "w+")
+jsonfile.write(json.dumps(new_data, indent=3))
+jsonfile.close()			
 
 

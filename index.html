@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
+
+  <style type="text/css">
+  	.chart
+    {
+      height:1000px;
+      width: 1000px;
+    }
+    .bar
+    {
+    	background-color: red;
+    }
+
+  </style>
+
+  <script type="text/javascript">
+	  function draw(json_data) {
+	  	console.log("hello")
+	  	d3.select(".chart")
+		  .selectAll("div")
+		    .data(json_data)
+		  .enter().append("div")
+		  	.attr('class', 'bar')
+		    .style("width", function(d) {
+		    	return d['Justification Percentage'] * 10 + "px"; })
+		    .text(function(d) { return d['Country Code']; });
+	  }
+
+
+
+
+
+
+
+  </script>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+<div class="chart"></div>
+	<script type="text/javascript">  
+		d3.json("/data/d3_ready_nice.json", function(error, graph) {
+		  if (error) return console.error(error);
+		  draw(graph);
+		});
+	</script>
+</body>  
