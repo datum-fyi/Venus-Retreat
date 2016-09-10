@@ -1,10 +1,10 @@
 import csv
 import json
 
-# csvfile = open('2016csv.csv', 'r')
-# jsonfile = open('spi_2016.json', 'w')
+# csvfile = open('continents.csv', 'r')
+# jsonfile = open('continents.json', 'w')
 
-# fieldnames = ("Country","Country Code","Social Progress Index","Basic Human Needs","Foundations of Wellbeing","Opportunity","Nutrition and Basic Medical Care","Water and Sanitation","Shelter","Personal Safety","Access to Basic Knowledge","Access to Information and Communications","Health and Wellness","Environmental Quality","Personal Rights","Personal Freedom and Choice","Tolerance and Inclusion","Access to Advanced Education","Undernourishment","Depth of food deficit","Maternal mortality rate","Child mortality rate","Deaths from infectious diseases","Access to piped water","Rural access to improved water source","Access to improved sanitation facilities","Availability of affordable housing","Access to electricity","Quality of electricity supply","Household air pollution attributable deaths","Homicide rate","Level of violent crime","Perceived criminality","Political terror","Traffic deaths","Adult literacy rate","Primary school enrollment","Lower secondary school enrollment","Upper secondary school enrollment","Gender parity in secondary enrollment","Mobile telephone subscriptions","Internet users","Press Freedom Index","Life expectancy at 60","Premature deaths from non-communicable diseases","Obesity rate","Suicide rate","Outdoor air pollution attributable deaths","Wastewater treatment","Biodiversity and habitat","Greenhouse gas emissions","Political rights","Freedom of speech","Freedom of assembly/association","Freedom of movement","Private property rights","Freedom over life choices","Freedom of religion","Early marriage","Satisfied demand for contraception","Corruption","Tolerance for immigrants","Tolerance for homosexuals","Discrimination and violence against minorities","Religious tolerance","Community safety net","Years of tertiary schooling","Women's average years in school","Inequality in the attainment of education","Globally ranked universities","Percentage of tertiary students enrolled in globally ranked universities","Depth of food deficit - capped","Adult literacy rate - capped","Lower secondary school enrollment - capped","Upper secondary school enrollment - capped","Gender parity in secondary enrollment - difference from parity","Mobile telephone subscriptions - capped","Greenhouse gas emissions - capped","Globally ranked universities - bucketed","Percentage of tertiary students enrolled in globally ranked universities - bucketed")
+# fieldnames = ("name","alpha-2","alpha-3","country-code","iso_3166-2","region","sub-region","region-code","sub-region-code")
 # reader = csv.DictReader( csvfile, fieldnames)
 # jsonfile.write('[')
 # for row in reader:
@@ -32,6 +32,29 @@ import json
 # jsonfile = open('marriage_nice.json', 'r')
 # mar_data = json.load(jsonfile)
 # jsonfile.close()
+
+jsonfile = open('con_nice.json', 'r')
+con_data = json.load(jsonfile)
+jsonfile.close()
+
+jsonfile = open('d3_ready_nice.json', 'r')
+agg_data = json.load(jsonfile)
+jsonfile.close()
+
+
+for country in agg_data:
+	country["Region"] = con_data[country["Country Code"]]
+
+# new_data = {}
+
+# for country in con_data:
+# 	new_data[country["alpha-3"]] = country["region"]
+
+
+
+
+
+
 
 # new_data = {}
 
@@ -204,21 +227,21 @@ import json
 
 # aggreg.close()
 					
-jsonfile = open('aggregate_nice.json', 'r')
-agg_data = json.load(jsonfile)
-jsonfile.close()
+# jsonfile = open('aggregate_nice.json', 'r')
+# agg_data = json.load(jsonfile)
+# jsonfile.close()
 
-new_data = []
+# new_data = []
 
-for country in agg_data:
-	new_data.append(agg_data[country])
+# for country in agg_data:
+# 	new_data.append(agg_data[country])
 
-print new_data
+# print new_data
 
 
 
-jsonfile = open("d3_ready_nice.json", "w+")
-jsonfile.write(json.dumps(new_data, indent=3))
+jsonfile = open("d3_ready.json", "w+")
+jsonfile.write(json.dumps(agg_data))
 jsonfile.close()			
 
 
