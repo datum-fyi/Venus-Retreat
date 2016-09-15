@@ -33,24 +33,39 @@ import json
 # mar_data = json.load(jsonfile)
 # jsonfile.close()
 
-jsonfile = open('con_nice.json', 'r')
-con_data = json.load(jsonfile)
+# jsonfile = open('con_nice.json', 'r')
+# con_data = json.load(jsonfile)
+# jsonfile.close()
+
+# jsonfile = open('d3_ready_nice.json', 'r')
+# agg_data = json.load(jsonfile)
+# jsonfile.close()
+
+
+# for country in agg_data:
+# 	country["Region"] = con_data[country["Country Code"]]
+
+
+jsonfile = open('d3_ready_con.json', 'r')
+ready_data = json.load(jsonfile)
 jsonfile.close()
 
-jsonfile = open('d3_ready_nice.json', 'r')
-agg_data = json.load(jsonfile)
+jsonfile = open('world_countries.json', 'r')
+world_data = json.load(jsonfile)
 jsonfile.close()
 
 
-for country in agg_data:
-	country["Region"] = con_data[country["Country Code"]]
-
-# new_data = {}
-
-# for country in con_data:
-# 	new_data[country["alpha-3"]] = country["region"]
+for country in ready_data:
+	code = country['Country Code']
+	for country_w in world_data['features']:
+		if country_w['id'] == code:
+			country_w['ex_data'] = country
 
 
+
+jsonfile = open("world_countries_ready.json", "w+")
+jsonfile.write(json.dumps(world_data))
+jsonfile.close()			
 
 
 
@@ -240,8 +255,8 @@ for country in agg_data:
 
 
 
-jsonfile = open("d3_ready.json", "w+")
-jsonfile.write(json.dumps(agg_data))
-jsonfile.close()			
+# jsonfile = open("d3_ready.json", "w+")
+# jsonfile.write(json.dumps(agg_data))
+# jsonfile.close()			
 
 

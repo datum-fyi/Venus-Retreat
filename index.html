@@ -10,20 +10,40 @@
   <style type="text/css">
   	.chart
     {
-      height:1000px;
+      height:500px;
       width: 1000px;
     }
     .bar
     {
     	background-color: red;
     }
+    .button
+    {
+    	background-color: red;
+    	height:50px;
+    	width: 50px;
+    	margin-left: 50px;
+    }
+    .tooltip 
+    {
+      background: #eee;
+      box-shadow: 0 0 5px #999999;
+      color: #333;
+      display: none;
+      font-size: 12px;
+      left: 130px;
+      padding: 10px 0px;
+      position: absolute;
+      text-align: center;
+      top: 95px;
+      width: 275px;
+      z-index: 10;
+    }
 
   </style>
 
   <script type="text/javascript">
-	function draw(json_data) {
-	  	console.log("hello")
-
+	function draw_scatter(json_data) {
 	  	"use strict";
 
         var margin = {top: 20, right: 20, bottom: 20, left: 20},
@@ -31,9 +51,9 @@
 		    height = 500 - margin.top - margin.bottom;
          
 
-        var svg = d3.select("#scatter_chart")
+        var svg_map_scatter = d3.select("#scatter_chart")
             .append("svg")
-            .attr('class', 'svg_scatter')
+            .attr('class', 'svg_map_scatter')
             .attr("width", width)
             .attr("height", height)
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -79,9 +99,10 @@
 
 		var x_nut_axis = d3.svg.axis().scale(scatter_x_scale_nut).orient("bottom");			                    
 
-	  	svg.selectAll("circle")
+	  	svg_map_scatter.selectAll("circle")
 		    .data(json_data)
-		  .enter().append("circle")
+		  	.enter()
+		  	.append("circle")
 		  	.attr('class', 'bar')
 		  	.attr('fill', function(d) {
 		    		if (d['Region'] == "Asia"){
@@ -97,20 +118,69 @@
 		    .attr("r", function(d) {
 		    	return "4px"; })
 		    .attr("cx", function(d) {
-		    	return scatter_x_scale_nut(d['NutWell Score']); })
+		    	return scatter_x_scale_gdp(d['GDP Capita']); })
 		    .attr("cy", function(d) {
 		    	return scatter_y_scale(d['Justification Percentage']); })
+		    .on('mouseover', function(d) {
+		    	tooltip.text(d["Country Name"])
+                       .style('display', 'block');
+		    })
+		    .on('mouseout', function() {
+                tooltip.style('display', 'none');
+            });
 
-		var xAxisGroup = svg.append("g")
+		var xAxisGroup = svg_map_scatter.append("g")
+							.attr('id', 'xaxis')
 							.attr("transform", "translate(0," + (height - margin.bottom - margin.top) + ")")
-                            .call(x_nut_axis);
+                            .call(x_gdp_axis);
 
-        var yAxisGroup = svg.append("g")
+        var yAxisGroup = svg_map_scatter.append("g")
         					.attr("transform", "translate(50," + (margin.bottom) + ")")
                             .call(y_justification_axis);                          
 
 			                       
-	  
+	  	d3.select('#button_edu').on('mouseover', function(d) {
+                            svg_map_scatter.selectAll("circle")
+                              .transition()
+                              .duration(500)
+                              .attr("cx", function(d) {
+		    						return scatter_x_scale_edu(d["Education Percentage"]); })
+
+                            svg_map_scatter.select('#xaxis').call(x_edu_axis)  
+                              
+                          })
+
+	  	d3.select('#button_nut').on('mouseover', function(d) {
+                            svg_map_scatter.selectAll("circle")
+                              .transition()
+                              .duration(500)
+                              .attr("cx", function(d) {
+		    						return scatter_x_scale_nut(d["NutWell Score"]); })
+
+                            svg_map_scatter.select('#xaxis').call(x_nut_axis)  
+                              
+                          })
+
+	  	d3.select('#button_gdp').on('mouseover', function(d) {
+                            svg_map_scatter.selectAll("circle")
+                              .transition()
+                              .duration(500)
+                              .attr("cx", function(d) {
+		    						return scatter_x_scale_gdp(d["GDP Capita"]); })
+
+                            svg_map_scatter.select('#xaxis').call(x_gdp_axis)  
+                              
+                          })
+
+
+	  	var tooltip = d3.select('#scatter_chart')             
+          .append('div')                             
+          .attr('class', 'tooltip');
+
+        svg_map_scatter.selectAll('circle').on('mousemove', function(d) {
+          tooltip.style('top', (d3.event.layerY + 10) + 'px')
+            .style('left', (d3.event.layerX + 10) + 'px');
+          });  
 
 
 
@@ -123,6 +193,45 @@
 
 
 	}
+
+	function draw_map(geo_data) {
+        "use strict";
+        var margin = 75,
+            width = 1400 - margin,
+            height = 600 - margin;
+
+        var svg_map = d3.select("body")
+            .append("svg")
+            .attr("width", width + margin)
+            .attr("height", height + margin)
+            .append('g')
+            .attr('class', 'map');
+
+        var projection = d3.geo.mercator()
+                               .scale(140)
+                               .translate([width / 2, height / 1.2]);
+
+        var path = d3.geo.path().projection(projection);
+
+        var map = svg_map.selectAll('path')
+                     .data(geo_data.features)
+                     .enter()
+                     .append('path')
+                     .attr('d', path)
+                     .style('fill', 'lightBlue')
+                     .style('stroke', 'black')
+                     .style('stroke-width', 0.5);
+
+
+
+
+
+
+
+
+        }           
+
+
   </script>
 
 
@@ -137,10 +246,18 @@
 </head>
 <body>
 <div class="chart" id="scatter_chart"></div>
+<div id="button_edu" class="button">EDU</div>
+<div id="button_nut" class="button">NUT</div>
+<div id="button_gdp" class="button">GDP</div>
+<div class="chart" id="map_chart"></div>
 	<script type="text/javascript">  
-		d3.json("/data/d3_ready.json", function(error, graph) {
+		d3.json("/data/d3_ready_con.json", function(error, graph) {
 		  if (error) return console.error(error);
-		  draw(graph);
+		  draw_scatter(graph);
+		});
+		d3.json("/data/world_countries.json", function(error, graph) {
+		  if (error) return console.error(error);
+		  draw_map(graph);
 		});
 	</script>
 </body>  
