@@ -46,26 +46,49 @@ import json
 # 	country["Region"] = con_data[country["Country Code"]]
 
 
-jsonfile = open('d3_ready_con.json', 'r')
-ready_data = json.load(jsonfile)
-jsonfile.close()
+# jsonfile = open('wo_ju_nice.json', 'r')
+# wo_ju_data = json.load(jsonfile)
+# jsonfile.close()
 
-jsonfile = open('world_countries.json', 'r')
-world_data = json.load(jsonfile)
-jsonfile.close()
+# jsonfile = open('continents.json', 'r')
+# con_data = json.load(jsonfile)
+# jsonfile.close()
+
+# jsonfile = open('gdp_cap_nice.json', 'r')
+# gdp_data = json.load(jsonfile)
+# jsonfile.close()
+
+# new_data = []
+
+# for country in wo_ju_data:
+# 	if wo_ju_data[country]['Country Low Year'] != "null":
+# 		new_data.append(wo_ju_data[country])
+
+# for country in new_data:
+# 	for result in con_data:
+# 		if result["alpha-3"] == country["Country Code"]:
+# 			country['region'] = result['region']
+# 			country['sub-region'] = result ['sub-region']
+		
+# 	if str(country["Country Low Year"]) in gdp_data[country["Country Code"]]['gdp_data']:
+#  			country["GDP Low Year"] = float(gdp_data[country["Country Code"]]['gdp_data'][str(country["Country Low Year"])])
+#  	elif '2014' in gdp_data[country["Country Code"]]['gdp_data']:	
+# 			country["GDP Low Year"] = float(gdp_data[country["Country Code"]]['gdp_data']['2014'])
+# 	elif '2010' in gdp_data[country["Country Code"]]['gdp_data']:	
+# 			country["GDP Low Year"] = float(gdp_data[country["Country Code"]]['gdp_data']['2010'])		
 
 
-for country in ready_data:
-	code = country['Country Code']
-	for country_w in world_data['features']:
-		if country_w['id'] == code:
-			country_w['ex_data'] = country
+# # for country in ready_data:
+# # 	code = country['Country Code']
+# # 	for country_w in world_data['features']:
+# # 		if country_w['id'] == code:
+# # 			country_w['ex_data'] = country
 
 
 
-jsonfile = open("world_countries_ready.json", "w+")
-jsonfile.write(json.dumps(world_data))
-jsonfile.close()			
+# jsonfile = open("new_gdp_location.json", "w+")
+# jsonfile.write(json.dumps(new_data))
+# jsonfile.close()			
 
 
 
@@ -211,36 +234,36 @@ jsonfile.close()
 # 		new_data[country] = agg_data[country]
 # print count				
 
-# jsonfile = open('aggregate_nice.json', 'r')
-# agg_data = json.load(jsonfile)
-# jsonfile.close()
+jsonfile = open('new_gdp_location.json', 'r')
+agg_data = json.load(jsonfile)
+jsonfile.close()
 
-# #emp_data = employee_parsed['employee_details']
+#emp_data = employee_parsed['employee_details']
 
-# #open a file for writing
+#open a file for writing
 
-# aggreg = open('AggData.csv', 'w')
+aggreg = open('NewAggData.csv', 'w')
 
-# # create the csv writer object
+# create the csv writer object
 
-# csvwriter = csv.writer(aggreg)
+csvwriter = csv.writer(aggreg)
 
-# count = 0
+count = 0
 
-# for country in agg_data[0]:
+for country in agg_data:
 
-# 	print country
-# 	if count == 0:
+	print country
+	if count == 0:
 
-# 		header = agg_data[0][country].keys()
+		header = country.keys()
 
-# 		csvwriter.writerow(header)
+		csvwriter.writerow(header)
 
-# 		count += 1
+		count += 1
 	
-# 	csvwriter.writerow(agg_data[0][country].values())
+	csvwriter.writerow(country.values())
 
-# aggreg.close()
+aggreg.close()
 					
 # jsonfile = open('aggregate_nice.json', 'r')
 # agg_data = json.load(jsonfile)

@@ -20,9 +20,9 @@ library(aod)
 library(ResourceSelection)
 library(rmarkdown)
 
-agg <- read.csv('AggData.csv')
+agg <- read.csv('NewAggData.csv')
 
-ggplot(data= agg, aes(x=Justification.Percentage, y= GDP.Capita)) + geom_point(alpha=0.5, aes(size=1))
+ggplot(data= agg, aes(x=Country.Low.Percentage, y= GDP.Capita)) + geom_point(alpha=0.5, aes(size=1))
 
-fit <- lm(Justification.Percentage ~ NutWell.Score + Education.Percentage +Marriage.Score + log(GDP.Capita), data=agg)
+fit <- lm(Country.Low.Percentage ~ log(GDP.Low.Year) + region , data=agg)
 summary(fit) # show results
