@@ -14,7 +14,8 @@ percentage_data,Country Low Percentage,region,Country Code,Country Name,GDP Low 
 "{u'2003': u'24.8', u'2007': u'30.8', u'2012': u'34.5'}",34.5,Asia,IDN,Indonesia,3700.523538,South-Eastern Asia,2012
 {u'2003': u'39.2'},39.2,Asia,TUR,Turkey,4586.811203,Western Asia,2003
 "{u'2003': u'54.1', u'2011': u'21'}",21,Africa,MOZ,Mozambique,524.8914529,Eastern Africa,2011
-"{u'2003': u'64.2', u'2008': u'43', u'2013': u'34.7'}",34.7,Africa,NGA,Nigeria,2979.84415,Western Africa,2013
+,"{u'2003': u'64.2', u'2008': u'43', u'2013': u'34.7'}"
+,34.7,Africa,NGA,Nigeria,2979.84415,Western Africa,2013
 "{u'2003': u'71.1', u'2006': u'71.4', u'2010': u'43.5'}",43.5,Africa,BFA,Burkina Faso,574.4580893,Western Africa,2010
 {u'2004': u'63.9'},63.9,Africa,MAR,Morocco,1955.141931,Northern Africa,2004
 "{u'2005': u'20.8', u'2012': u'11.2'}",11.2,Europe,MDA,Moldova,2046.536787,Eastern Europe,2012
